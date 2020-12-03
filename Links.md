@@ -20,11 +20,21 @@
 - [Кросс-браузерное тестирование](https://software-testing.ru/library/testing/other-testing/3091-cross-browser-testing)
 - [Тестирование Установки (Installation Testing)](https://software-testing.ru/library/testing/functional-testing/725-installation-testing)
 ## Тест-план
-- [Тест-план на одну страницу](https://software-testing.ru/library/testing/test-analysis/2405-the-one-page-test-plan), [Что должно входить в тест-план](https://software-testing.ru/library/testing/general-testing/2920-what-should-test-plan), [Тест План)](http://www.protesting.ru/testing/plan.html), [Как писать план тестирования: что важно не забыть, и с чего начать?](https://software-testing.ru/library/testing/test-analysis/2949-how-to-write-a-software-test-plan)
+- [Тест-план на одну страницу](https://software-testing.ru/library/testing/test-analysis/2405-the-one-page-test-plan)
+- [Что должно входить в тест-план](https://software-testing.ru/library/testing/general-testing/2920-what-should-test-plan)
+- [Тест План)](http://www.protesting.ru/testing/plan.html)
+- [Как писать план тестирования: что важно не забыть, и с чего начать?](https://software-testing.ru/library/testing/test-analysis/2949-how-to-write-a-software-test-plan)
 ## Тест-кейсы
-- [Что такое тест-кейс и как его писать](http://okiseleva.blogspot.com/2014/08/blog-post.html), [Тест-кейсы](https://software-testing.ru/library/testing/general-testing/2330-youarenotdoneyet), [Тестовый случай (Test Case)](http://www.protesting.ru/testing/testcase.html), [Правила написания предварительных шагов в тест-кейсах](https://software-testing.ru/library/testing/test-analysis/3291-test-case)
+- [Что такое тест-кейс и как его писать](http://okiseleva.blogspot.com/2014/08/blog-post.html)
+- [Тест-кейсы](https://software-testing.ru/library/testing/general-testing/2330-youarenotdoneyet)
+- [Тестовый случай (Test Case)](http://www.protesting.ru/testing/testcase.html)
+- [Правила написания предварительных шагов в тест-кейсах](https://software-testing.ru/library/testing/test-analysis/3291-test-case)
 ## Чек-листы
-- [Что такое чек-лист?](https://sitechco.ru/2011/08/chto-takoe-chek-list/), [Какой результат писать в чек-листе](http://okiseleva.blogspot.com/2015/03/blog-post_33.html), [Чек-лист для тестирования числового поля](https://habr.com/ru/post/525192/), [Полный чек-лист тестирования веб-приложения](https://software-testing.ru/library/testing/testing-for-beginners/2478-complete-web-application-testing-checklist), [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
+- [Что такое чек-лист?](https://sitechco.ru/2011/08/chto-takoe-chek-list/)
+- [Какой результат писать в чек-листе](http://okiseleva.blogspot.com/2015/03/blog-post_33.html)
+- [Чек-лист для тестирования числового поля](https://habr.com/ru/post/525192/)
+- [Полный чек-лист тестирования веб-приложения](https://software-testing.ru/library/testing/testing-for-beginners/2478-complete-web-application-testing-checklist)
+- [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
 ## Тест-дизайн
 - [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html), [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html)
 - [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html), [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains), [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html), [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3), [Тестирование полей ввода](http://blog.shumoos.com/archives/67), [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/), [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
