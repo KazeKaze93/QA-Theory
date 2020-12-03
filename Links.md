@@ -2,6 +2,7 @@
 ***
 - [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
+## Методологии разроботки
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789), [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410), [Методологии, Модели и Фреймворки](https://qastart.by/class/models), [Процесс тестирования в Kanban](https://software-testing.ru/library/testing/test-management/3395-kanban)
 - [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m), [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html), [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://software-testing.ru/library/testing/other-testing/2854-smoke-sanity-regression-re-test), [A/B тестирование](https://software-testing.ru/library/testing/other-testing/2729-a-b-testing)
 - [Тестирование методом черного ящика](https://habr.com/ru/post/462837/), [Особенности тестирования «черного ящика»](https://software-testing.ru/library/testing/functional-testing/2675-key-principles-of-black-box-testing)
