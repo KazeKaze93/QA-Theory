@@ -65,7 +65,7 @@
 - [Как отправить SOAP-запрос в Soap Ui](https://okiseleva.blogspot.com/2017/07/soap-soap-ui.html)
 - [Как отправить массив через Soap Ui](https://okiseleva.blogspot.com/2019/03/soap-ui.html)
 - [Где потестировать API](https://reqres.in/), [Где потестировать API еще](http://httpbin.org/), [Users](https://okiseleva.blogspot.com/2017/04/users-soap-rest.html), [Swagger Petstore](https://okiseleva.blogspot.com/2018/12/swagger-petstore-rest.html)
-- [Что такое XML],(https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
+- [Что такое XML](https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
 # Базы данных
 ***
 - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
