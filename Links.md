@@ -65,7 +65,7 @@
 - [Как отправить SOAP-запрос в Soap Ui](https://okiseleva.blogspot.com/2017/07/soap-soap-ui.html)
 - [Как отправить массив через Soap Ui](https://okiseleva.blogspot.com/2019/03/soap-ui.html)
 - [Где потестировать API](https://reqres.in/), [Где потестировать API еще](http://httpbin.org/), [Users](https://okiseleva.blogspot.com/2017/04/users-soap-rest.html), [Swagger Petstore](https://okiseleva.blogspot.com/2018/12/swagger-petstore-rest.html)
-- [Что такое XML], (https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
+- [Что такое XML],(https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
 # Базы данных
 ***
 - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
@@ -227,13 +227,23 @@
 ***
 - [Интерфейсы без шелухи](https://t.me/dangry)
 - [Серьёзный тестер](https://teleg.run/serious_tester)
-- [Типичный тестер]()
+- [QA_PRO | Тестирование](https://t.me/qa_pro)
 - [QA Alliance](https://t.me/qalliance)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [automated-testing.info](https://t.me/atinfo)
+- [QA events](https://t.me/qaevents)
+- [Архив тестирование](https://t.me/testinglib)
+- [QA_ru](https://t.me/qa_ru)
+- [QA Сhannel](https://t.me/qa_channel)
+- [QA juniors](https://t.me/qajuniors)
+- [QA - Bad Company!](https://t.me/qa_bad_company)
+- [QA — вакансии и аналитика рынка вакансий](https://t.me/qa_jobs)
+- [QA - Резюме](https://t.me/qa_resumes)
+- [QA - Finance](https://t.me/qa_fin)
+- [QA — русскоговорящее сообщество](https://t.me/qa_ru)
+- [QA — Автоматизация](https://web-telegram.ru/#/im?p=@qa_automation)
+- [QA events](https://t.me/qaevents)
+- [Job for QA](https://t.me/forallqa)
+- [Кладовка Тестировщика](https://t.me/qainfo)
 # Всячина
 ***
 - [Подкаст тестировщиков](http://radio-qa.com/)
