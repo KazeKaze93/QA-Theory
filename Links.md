@@ -3,13 +3,19 @@
 - [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
 - [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura)
-## Методологии разроботки
-- [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789), [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410), [Методологии, Модели и Фреймворки](https://qastart.by/class/models), [Процесс тестирования в Kanban](https://software-testing.ru/library/testing/test-management/3395-kanban)
+## Методологии разработки
+- [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789)
+- [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410),
+- [Методологии, Модели и Фреймворки](https://qastart.by/class/models)
+- [Процесс тестирования в Kanban](https://software-testing.ru/library/testing/test-management/3395-kanban)
 ## Виды тестирования
-- [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m), [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html), [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://software-testing.ru/library/testing/other-testing/2854-smoke-sanity-regression-re-test), [A/B тестирование](https://software-testing.ru/library/testing/other-testing/2729-a-b-testing)
+- [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m)
+- [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
+- [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://software-testing.ru/library/testing/other-testing/2854-smoke-sanity-regression-re-test)
+- [A/B тестирование](https://software-testing.ru/library/testing/other-testing/2729-a-b-testing)
 - [Тестирование методом черного ящика](https://habr.com/ru/post/462837/), [Особенности тестирования «черного ящика»](https://software-testing.ru/library/testing/functional-testing/2675-key-principles-of-black-box-testing)
 - [Особенности тестирования «серого ящика»](https://software-testing.ru/library/testing/other-testing/2581-key-principles-of-gray-box-testing)
-- [Исследовательское тестирование: когда его стоит применять и как это делать](https://habr.com/ru/company/redmadrobot/blog/280618/), [Введение в исследовательское тестирование](https://software-testing.ru/library/testing/other-testing/2890-pathway-exploratory-testing), [Туры в исследовательском тестировании](https://habr.com/ru/post/328990/), [Создание плана исследовательского тестирования: картография ПО](https://software-testing.ru/library/testing/other-testing/2701-building-exploratory-test-plan), [Переводы туров для исследовательского тестирования](https://www.software-testing.ru/library/testing/testing-for-beginners/2965-exploratory-software-testing)
+- Исследовательское тестирование: [Исследовательское тестирование: когда его стоит применять и как это делать](https://habr.com/ru/company/redmadrobot/blog/280618/), [Введение в исследовательское тестирование](https://software-testing.ru/library/testing/other-testing/2890-pathway-exploratory-testing), [Туры в исследовательском тестировании](https://habr.com/ru/post/328990/), [Создание плана исследовательского тестирования: картография ПО](https://software-testing.ru/library/testing/other-testing/2701-building-exploratory-test-plan), [Переводы туров для исследовательского тестирования](https://www.software-testing.ru/library/testing/testing-for-beginners/2965-exploratory-software-testing)
 - [Тестирование локализации](https://software-testing.ru/library/testing/other-testing/3131-localization-testing)
 - [Кросс-браузерное тестирование](https://software-testing.ru/library/testing/other-testing/3091-cross-browser-testing)
 - [Тестирование Установки (Installation Testing)](https://software-testing.ru/library/testing/functional-testing/725-installation-testing)
