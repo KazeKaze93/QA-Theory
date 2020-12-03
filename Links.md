@@ -50,9 +50,9 @@
 - [Как локализовать плавающие баги](https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)
 - [Жизненный цикл бага](http://www.protesting.ru/testing/bug_lifecycle.html)
 ## Уровни тестирования
-- [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels), [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
-***
-***
+- [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels)
+- [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
+## Прочее
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
 - [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
 - [Тестовое Покрытие (Test Coverage)](http://www.protesting.ru/testing/testcoverage.html)
