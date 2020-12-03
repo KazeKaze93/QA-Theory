@@ -59,9 +59,9 @@
 - [Мобильные приложения и их тестировщики: all you need to know](https://software-testing.ru/library/testing/mobile-testing/2713-mobile-test)
 - [Тестирование мобильной версии сайта без мобильного устройства](https://software-testing.ru/library/testing/mobile-testing/2626-testing-mobile-website)
 - [Нагрузочное тестирование мобильного приложения: запись трафика и создание скриптов](https://software-testing.ru/library/testing/mobile-testing/2597-mobile-app-load-testing)
--[Тестирование мобильных приложений: tips & tricks](https://software-testing.ru/library/testing/mobile-testing/2170-tipsatricks-mobile)
--[6 «жизненных» советов или ЛАЙФХАК по мобильному тестированию ](https://software-testing.ru/library/testing/mobile-testing/2010-lifehack-mobile-testing)
--[Лайфхаки ручного тестирования на мобилках](https://software-testing.ru/library/testing/mobile-testing/2004-gorlova-sqadays-15)
+- [Тестирование мобильных приложений: tips & tricks](https://software-testing.ru/library/testing/mobile-testing/2170-tipsatricks-mobile)
+- [6 «жизненных» советов или ЛАЙФХАК по мобильному тестированию ](https://software-testing.ru/library/testing/mobile-testing/2010-lifehack-mobile-testing)
+- [Лайфхаки ручного тестирования на мобилках](https://software-testing.ru/library/testing/mobile-testing/2004-gorlova-sqadays-15)
 # Нагрузочное тестирование
 ***
 - [О нагрузочном тестировании](https://habr.com/ru/company/oleg-bunin/blog/95060/)
