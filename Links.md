@@ -2,12 +2,15 @@
 ***
 - [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
-- [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura)
-## Методологии разработки
+- [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura), [Архитектура клиент-сервер](https://sergeygavaga.gitbooks.io/kurs-lektsii-testirovanie-programnogo-obespecheni/content/lektsiya-6-ch1-arhitektura-klient-server.html)
+## Методологии разработки и жизненный цикл ПО
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789)
 - [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410),
 - [Методологии, Модели и Фреймворки](https://qastart.by/class/models)
 - [Процесс тестирования в Kanban](https://software-testing.ru/library/testing/test-management/3395-kanban)
+- [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
+- [Жизненный цикл программного продуктаЖизненный цикл программного продукта](https://it-black.ru/zhiznennyy-tsikl-programmnogo-produkta/)
+- [ Жизненный цикл продуктов в IT – какие фазы в него входят и почему](https://vc.ru/azoft/150275-zhiznennyy-cikl-produktov-v-it-kakie-fazy-v-nego-vhodyat-i-pochemu)
 ## Виды тестирования
 - [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m)
 - [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
@@ -35,14 +38,15 @@
 - [Полный чек-лист тестирования веб-приложения](https://software-testing.ru/library/testing/testing-for-beginners/2478-complete-web-application-testing-checklist)
 - [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
 ## Тест-дизайн
-- Техники: [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html), [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html)
+- Техники: [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html), [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html), [Немного о простом. Тест-дизайн. Часть 1](https://habr.com/ru/post/462553/)
 - <ins>**Классы эквивалентности**</ins>: [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html), [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains), [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html), [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3), [Тестирование полей ввода](http://blog.shumoos.com/archives/67), [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/), [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
 - <ins>**Граничные значения**</ins>: [Расширяем тестирование граничных значений](https://software-testing.ru/library/testing/test-analysis/2688-extend-testing-of-boundary-values), [Как найти границы на клиенте и сервере](https://habr.com/ru/post/510458/)
-- <ins>**Причина — следствие**</ins>:
-- <ins>**Предугадывание ошибок**</ins>:
-- <ins>**Диаграммы перехода состояний**</ins>:
-- <ins>**Техника Pairwise**</ins>:
+- <ins>**Причина — следствие/Таблица принятия решений**</ins>:[Таблица принятия решений](https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/tablica-prinyatiya-reshenij/), [Таблицы решений и их применение в тестировании](https://training.qatestlab.com/blog/technical-articles/tables-solutions-and-their-usage-in-testing/), [О “Decision Table” простыми словами](https://medium.com/@lazarevazubova/%D0%BE-decision-table-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-5a3f5832e079), [Таблицы принятия решений: техника проведения тестирования с использованием Functional Tester от IBM Rational](https://software-testing.ru/library/testing/testing-automation/129--functional-tester-ibm-rational-), [Тестирование таблицы решений](https://ru.photo-555.com/6588784-decision-table-testing)
+- <ins>**Предугадывание ошибок**</ins>: [Предугадывание ошибки как техника тест-дизайна](https://training.qatestlab.com/blog/technical-articles/predicting-bug-as-a-test-design-technique/)
+- <ins>**Диаграммы перехода состояний**</ins>:[Тестирование на основе диаграмм состояний сущности](https://habr.com/ru/company/infopulse/blog/261061/), [Тестирование таблицы переходов состояний](https://www.it-courses.by/state-transition-testing/), [Тест-дизайн. Таблица состояний и переходов (часть 1)](https://vk.com/@zapiskisedogotestera-test-dizain-tablica-sostoyanii-i-perehodov-chast-1), [Таблица состояний и переходов (часть 2)](https://vk.com/@zapiskisedogotestera-test-dizain-tablica-znachenii-i-perehodov-chast-2)
+- <ins>**Техника Pairwise/Попарное тестирование**</ins>: [Метод попарного тестирования](https://medium.com/@breadcrumbszone/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%BF%D0%BE%D0%BF%D0%B0%D1%80%D0%BD%D0%BE%D0%B3%D0%BE-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-22ebdb18e88), [Что такое Pairwise Testing, и с чем его едят](http://qcthoughtsaloud.blogspot.com/2010/06/pairwise-testing.html), [Метод попарного тестирования](https://software-testing.ru/library/testing/test-analysis/1304-pairing), [История одного pairwise или как заменить мозги Гуглом и проиграть](http://qa-blog.alexei-vinogradov.de/2019/03/pairwise-challenge/), [Открытый вебинар «Метод Pairwise Testing в Black Box тестировании»](https://habr.com/ru/company/otus/blog/437980/), [Попарное тестирование (Pairwise testing)](https://training.qatestlab.com/blog/technical-articles/pairwise-testing/)
 - <ins>**Исследовательское тестирование**</ins>: [Исследовательское тестирование: когда его стоит применять и как это делать](https://habr.com/ru/company/redmadrobot/blog/280618/), [Введение в исследовательское тестирование](https://software-testing.ru/library/testing/other-testing/2890-pathway-exploratory-testing), [Туры в исследовательском тестировании](https://habr.com/ru/post/328990/), [Создание плана исследовательского тестирования: картография ПО](https://software-testing.ru/library/testing/other-testing/2701-building-exploratory-test-plan), [Переводы туров для исследовательского тестирования](https://www.software-testing.ru/library/testing/testing-for-beginners/2965-exploratory-software-testing)
+- <ins>**ADHOC**</ins>: [Ad-hoc testing](https://qaevolution.ru/testirovanie-po/vidy-testirovaniya-po/ad-hoc-testing/), [Что такое ad-hoc тестирование?](https://training.qatestlab.com/blog/technical-articles/what-is-ad-hoc-testing/)
 ## Баги
 - <ins>**Баг-репорты**</ins>: [Как заводить задачи в баг-трекер](http://okiseleva.blogspot.com/2015/02/blog-post_19.html), [Написание баг репорта](http://www.protesting.ru/testing/bugwriting.html), [Распространенные ошибки при составлении баг-репортов](https://habr.com/ru/post/156069/), [4 типичные ошибки оформления бага новичком](http://okiseleva.blogspot.com/2018/09/4.html), [Создание хороших баг-репортов](https://software-testing.ru/library/testing/bug-tracking/3469-writing-good-bug-reports), [Разбираемся с баг-репортом](https://software-testing.ru/library/testing/bug-tracking/3388-blogarchives487131),[Как закрывать задачи в баг-трекере](https://software-testing.ru/library/testing/bug-tracking/3193-close-tasks-bug-tracker)
 - <ins>**Priority/Severity**</ins>: [Серьезность и Приоритет Дефекта](http://www.protesting.ru/testing/bugpriority.html), [Серьезность и приоритет дефекта: в чем различие?](https://software-testing.ru/library/testing/functional-testing/2922-bug-serious), [Про Severity - серьезно и несерьезно](https://www.software-testing.ru/library/testing/testing-for-beginners/2100-severity-)
@@ -66,6 +70,7 @@
 - [Быстрые тесты](https://software-testing.ru/library/testing/test-analysis/3352-littleblackbookontestdesign9)
 - [Метод бисекционного деления в тестировании](https://software-testing.ru/library/testing/test-analysis/3192-method-bisectional-division)
 - [Тестирование кнопок](https://software-testing.ru/library/testing/general-testing/3056-testing-buttons)
+- [Принципы тестирования](https://qalight.com.ua/baza-znaniy/printsipyi-testirovaniya/), [7 Принципов тестирования с примерами](https://medium.com/@a.yevtukhov/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-331a2ab7ff43)
 # Тестирование мобильных приложений
 ***
 - [Особенности тестирования приложений на мобильных устройствах](https://enterra.ru/blog/mobile_qa/)
@@ -310,7 +315,7 @@
 - [Онлайн-игра Can't Unse](https://cantunsee.space)
 - [Онлайн-игра Code Combat](https://codecombat.com)
 - [Тестирование ПО: суть профессии, требования и заработная плата](https://habr.com/ru/company/habr_career/blog/517812/)
-- [Сертификация ISTQB. Часть 1](https://habr.com/ru/post/450748/), [Часть 2](https://habr.com/ru/post/453892/), [Сертификация ISTQB: преимущества и особенности](https://software-testing.ru/library/testing/general-testing/3133-istqb), [Устаревшие концепции тестирования: сертификация](https://software-testing.ru/library/around-testing/job/3365-outdated-testing-concepts-4-certification)
+- <ins>**ISTQB**</ins>: [Сертификация ISTQB. Часть 1](https://habr.com/ru/post/450748/), [Часть 2](https://habr.com/ru/post/453892/), [Сертификация ISTQB: преимущества и особенности](https://software-testing.ru/library/testing/general-testing/3133-istqb), [Устаревшие концепции тестирования: сертификация](https://software-testing.ru/library/around-testing/job/3365-outdated-testing-concepts-4-certification), [ISTQB: как подготовиться и где сдавать](https://vk.com/@zapiskisedogotestera-istqb-kak-podgotovitsya-i-gde-sdavat), [ISTQB: кому сдавать](https://vk.com/@zapiskisedogotestera-istqb-komu-sdavat)
 - [Целеполагание и контроль деятельности на основе матрицы Эйзенхауэра](https://habr.com/ru/company/smartprogress/blog/245587/)
 - [Почему тестировщиков «джун», «мидл» и «сеньор» не существует. Или как мы уже 10 лет работаем без грейдов](https://habr.com/ru/post/517744/)
 - [Кнопочное мышление против целостного IT-продукта](https://habr.com/ru/post/302382/)
@@ -327,9 +332,11 @@
 - [Семь типов тестировщиков](https://software-testing.ru/library/testing/general-testing/2859-7-types-testers)
 - [Какие баги никогда не будут поправлены, и как с этим жить](https://software-testing.ru/library/testing/general-testing/2785-what-bugs-wil-never-be-fixed)
 - [Какая разница между тест-аналитиком, системным аналитиком и бизнес-аналитиком](https://software-testing.ru/library/testing/general-testing/2704-what-is-the-difference-between-the-analysts)
+- [Пирамида обучения: как запомнить что-то раз и навсегда](https://externat.foxford.ru/polezno-znat/piramida-obucheniya)
 # Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
+- [Тестировщик-фрилансер. Обзор площадок](https://vk.com/@zapiskisedogotestera-testirovschik-frilanser-obzor-ploschadok)
 - [Testbirds](https://nest.testbirds.com/home/tester)
 - [Utest](https://www.utest.com)
 - [PassBrains](https://www.passbrains.com/)
