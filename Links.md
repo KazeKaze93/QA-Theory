@@ -36,7 +36,7 @@
 - [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
 ## Тест-дизайн
 - Техники: [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html), [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html)
-- Классы эквивалентности: [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html), [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains), [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html), [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3), [Тестирование полей ввода](http://blog.shumoos.com/archives/67), [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/), [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
+- <ins>**Классы эквивалентности**</ins>: [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html), [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains), [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html), [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3), [Тестирование полей ввода](http://blog.shumoos.com/archives/67), [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/), [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
 - <ins>**Граничные значения**</ins>: [Расширяем тестирование граничных значений](https://software-testing.ru/library/testing/test-analysis/2688-extend-testing-of-boundary-values), [Как найти границы на клиенте и сервере](https://habr.com/ru/post/510458/)
 - <ins>**Причина — следствие**</ins>:
 - <ins>**Предугадывание ошибок**</ins>:
@@ -51,6 +51,7 @@
 - [Жизненный цикл бага](http://www.protesting.ru/testing/bug_lifecycle.html)
 ## Уровни тестирования
 - [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels), [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
+***
 ***
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
 - [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
