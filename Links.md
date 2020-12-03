@@ -2,38 +2,46 @@
 ***
 - [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
+- [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura)
 ## Методологии разроботки
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789), [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410), [Методологии, Модели и Фреймворки](https://qastart.by/class/models), [Процесс тестирования в Kanban](https://software-testing.ru/library/testing/test-management/3395-kanban)
+## Виды тестирования
 - [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m), [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html), [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://software-testing.ru/library/testing/other-testing/2854-smoke-sanity-regression-re-test), [A/B тестирование](https://software-testing.ru/library/testing/other-testing/2729-a-b-testing)
 - [Тестирование методом черного ящика](https://habr.com/ru/post/462837/), [Особенности тестирования «черного ящика»](https://software-testing.ru/library/testing/functional-testing/2675-key-principles-of-black-box-testing)
 - [Особенности тестирования «серого ящика»](https://software-testing.ru/library/testing/other-testing/2581-key-principles-of-gray-box-testing)
 - [Исследовательское тестирование: когда его стоит применять и как это делать](https://habr.com/ru/company/redmadrobot/blog/280618/), [Введение в исследовательское тестирование](https://software-testing.ru/library/testing/other-testing/2890-pathway-exploratory-testing), [Туры в исследовательском тестировании](https://habr.com/ru/post/328990/), [Создание плана исследовательского тестирования: картография ПО](https://software-testing.ru/library/testing/other-testing/2701-building-exploratory-test-plan), [Переводы туров для исследовательского тестирования](https://www.software-testing.ru/library/testing/testing-for-beginners/2965-exploratory-software-testing)
+- [Тестирование локализации](https://software-testing.ru/library/testing/other-testing/3131-localization-testing)
+- [Кросс-браузерное тестирование](https://software-testing.ru/library/testing/other-testing/3091-cross-browser-testing)
+- [Тестирование Установки (Installation Testing)](https://software-testing.ru/library/testing/functional-testing/725-installation-testing)
+## Тест-план
 - [Тест-план на одну страницу](https://software-testing.ru/library/testing/test-analysis/2405-the-one-page-test-plan), [Что должно входить в тест-план](https://software-testing.ru/library/testing/general-testing/2920-what-should-test-plan), [Тест План)](http://www.protesting.ru/testing/plan.html), [Как писать план тестирования: что важно не забыть, и с чего начать?](https://software-testing.ru/library/testing/test-analysis/2949-how-to-write-a-software-test-plan)
+## Тест-кейсы
 - [Что такое тест-кейс и как его писать](http://okiseleva.blogspot.com/2014/08/blog-post.html), [Тест-кейсы](https://software-testing.ru/library/testing/general-testing/2330-youarenotdoneyet), [Тестовый случай (Test Case)](http://www.protesting.ru/testing/testcase.html), [Правила написания предварительных шагов в тест-кейсах](https://software-testing.ru/library/testing/test-analysis/3291-test-case)
+## Чек-листы
 - [Что такое чек-лист?](https://sitechco.ru/2011/08/chto-takoe-chek-list/), [Какой результат писать в чек-листе](http://okiseleva.blogspot.com/2015/03/blog-post_33.html), [Чек-лист для тестирования числового поля](https://habr.com/ru/post/525192/), [Полный чек-лист тестирования веб-приложения](https://software-testing.ru/library/testing/testing-for-beginners/2478-complete-web-application-testing-checklist), [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
+## Тест-дизайн
 - [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html), [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html)
 - [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html), [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains), [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html), [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3), [Тестирование полей ввода](http://blog.shumoos.com/archives/67), [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/), [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
-- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
-- [Как искать баги](http://testbase.ru/bugs)
 - [Расширяем тестирование граничных значений](https://software-testing.ru/library/testing/test-analysis/2688-extend-testing-of-boundary-values), [Как найти границы на клиенте и сервере](https://habr.com/ru/post/510458/)
-- [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
-- [Как локализовать плавающие баги](https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)
-- [Серьезность и Приоритет Дефекта](http://www.protesting.ru/testing/bugpriority.html), [Серьезность и приоритет дефекта: в чем различие?](https://software-testing.ru/library/testing/functional-testing/2922-bug-serious), [Про Severity - серьезно и несерьезно](https://www.software-testing.ru/library/testing/testing-for-beginners/2100-severity-)
-- [Жизненный цикл бага](http://www.protesting.ru/testing/bug_lifecycle.html)
+## Баг-репорты
 - [Как заводить задачи в баг-трекер](http://okiseleva.blogspot.com/2015/02/blog-post_19.html), [Написание баг репорта](http://www.protesting.ru/testing/bugwriting.html), [Распространенные ошибки при составлении баг-репортов](https://habr.com/ru/post/156069/), [4 типичные ошибки оформления бага новичком](http://okiseleva.blogspot.com/2018/09/4.html), [Создание хороших баг-репортов](https://software-testing.ru/library/testing/bug-tracking/3469-writing-good-bug-reports), [Разбираемся с баг-репортом](https://software-testing.ru/library/testing/bug-tracking/3388-blogarchives487131),[Как закрывать задачи в баг-трекере](https://software-testing.ru/library/testing/bug-tracking/3193-close-tasks-bug-tracker)
-- [Тестовое Покрытие (Test Coverage)](http://www.protesting.ru/testing/testcoverage.html)
+- [Серьезность и Приоритет Дефекта](http://www.protesting.ru/testing/bugpriority.html), [Серьезность и приоритет дефекта: в чем различие?](https://software-testing.ru/library/testing/functional-testing/2922-bug-serious), [Про Severity - серьезно и несерьезно](https://www.software-testing.ru/library/testing/testing-for-beginners/2100-severity-)
+- [Как искать баги](http://testbase.ru/bugs)
+- [Как локализовать плавающие баги](https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)
+- [Жизненный цикл бага](http://www.protesting.ru/testing/bug_lifecycle.html)
+##Уровни тестирования
 - [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels), [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
-- [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura)
+***
+- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+- [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
+- [Тестовое Покрытие (Test Coverage)](http://www.protesting.ru/testing/testcoverage.html)
 - [Сообщения об ошибках](https://software-testing.ru/library/testing/bug-tracking/2117-bugs-reports), [Сообщения об ошибках — тоже документация, тестируйте их!](http://okiseleva.blogspot.com/2015/06/blog-post_8.html)
 - [Как составлять вариант использования](http://okiseleva.blogspot.com/2015/11/blog-post_86.html)
 - [Тормозит страница в вебе, какую информацию собрать для разработчика](http://okiseleva.blogspot.com/2017/04/blog-post_21.html)
 - [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1)
 - [Тестируем вёрстку правильно](https://habr.com/ru/company/2gis/blog/277457/)
 - [Что такое API](https://habr.com/ru/post/464261/)
-- [Тестирование Установки (Installation Testing)](https://software-testing.ru/library/testing/functional-testing/725-installation-testing)
 - [Тестирование на основе рисков, часть 1](https://software-testing.ru/library/testing/other-testing/3190-risk-based-testing-part-one-talking-about-risks-over-types-of-testing), [часть 2](https://software-testing.ru/library/testing/other-testing/3203-risk-based-testing-part-two-uncovering-risks), [часть 3](https://software-testing.ru/library/testing/other-testing/3213-risk-based-testing-part-three-bug-prevention-and-bug-detection)
-- [Тестирование локализации](https://software-testing.ru/library/testing/other-testing/3131-localization-testing)
-- [Кросс-браузерное тестирование](https://software-testing.ru/library/testing/other-testing/3091-cross-browser-testing)
 - [Быстрые тесты](https://software-testing.ru/library/testing/test-analysis/3352-littleblackbookontestdesign9)
 - [Метод бисекционного деления в тестировании](https://software-testing.ru/library/testing/test-analysis/3192-method-bisectional-division)
 - [Тестирование кнопок](https://software-testing.ru/library/testing/general-testing/3056-testing-buttons)
