@@ -1,5 +1,6 @@
-# Основы ручного тестирования
+# Ручное тестирование
 ***
+- [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
 - [Cервис проверки названия багов](http://bugred.ru)
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789)
@@ -10,6 +11,110 @@
 - [Что такое UX/UI дизайн на самом деле?](https://habr.com/ru/post/321312/)
 - [Типы HTTP-запросов и философия REST](https://habr.com/ru/post/50147/)
 - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/)
+- [Тест-план на одну страницу](https://software-testing.ru/library/testing/test-analysis/2405-the-one-page-test-plan)
+- [Что такое тест-кейс и как его писать](http://okiseleva.blogspot.com/2014/08/blog-post.html)
+- [Что такое чек-лист?](https://sitechco.ru/2011/08/chto-takoe-chek-list/)
+- [Какой результат писать в чек-листе](http://okiseleva.blogspot.com/2015/03/blog-post_33.html)
+- [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html)
+- [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains)
+- [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html)
+- [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3)
+- [Тестирование полей ввода](http://blog.shumoos.com/archives/67)
+- [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/)
+- [Тест-кейсы](https://software-testing.ru/library/testing/general-testing/2330-youarenotdoneyet)
+- [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+- [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
+- [Чек-лист для тестирования числового поля](https://habr.com/ru/post/525192/)
+- [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
+- [Как искать баги](http://testbase.ru/bugs)
+- [Как найти границы на клиенте и сервере](https://habr.com/ru/post/510458/)
+- [Как заводить задачи в баг-трекер](http://okiseleva.blogspot.com/2015/02/blog-post_19.html)
+- [4 типичные ошибки оформления бага новичком](http://okiseleva.blogspot.com/2018/09/4.html)
+- [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
+- [Как локализовать плавающие баги](https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)
+- [Серьезность и Приоритет Дефекта](http://www.protesting.ru/testing/bugpriority.html)
+- [Написание баг репорта](http://www.protesting.ru/testing/bugwriting.html)
+- [Жизненный цикл бага](http://www.protesting.ru/testing/bug_lifecycle.html)
+- [Распространенные ошибки при составлении баг-репортов](https://habr.com/ru/post/156069/)
+- [Тест План)](http://www.protesting.ru/testing/plan.html)
+- [Тестовый случай (Test Case)](http://www.protesting.ru/testing/testcase.html)
+- [Тестовое Покрытие (Test Coverage)](http://www.protesting.ru/testing/testcoverage.html)
+- [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html)
+- [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html)
+- [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels)
+- [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
+- [Методологии, Модели и Фреймворки](https://qastart.by/class/models)
+- [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m)
+- [REST / SOAP](https://qastart.by/class-2/23-rest-soap)
+- [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura)
+- [WEB](https://qastart.by/class-2)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+# SQL
+***
+- [SQL](https://qastart.by/class-6)
+# GIT
+- [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
+- [Чёрт побери, Git!?!](https://dangitgit.com/ru)
+- [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet)
+- [Git](https://qastart.by/class-5)
+# Инструменты
+***
+- [Как сгенерить большую строку, инструменты](http://okiseleva.blogspot.com/2015/08/blog-post_8.html)
+- [Bug magnet — аддон тестировщика для заполнения полей](https://okiseleva.blogspot.com/2018/09/bug-magnet.html)
+# Telegram-каналы
+***
+# Автоматизация и языки
+***
+- [Библия тестировщика](https://github.com/Vladislav610/QA_bible/blob/master/x%20Automation.md)
+- [Питонтьютор](http://pythontutor.ru)
+- [Python для начинающих](https://pythonworld.ru)
+- [Принципы ООП](https://qastart.by/class-2/20-razdely/klassifikatsiya-4/66-printsipy-oophttps://qastart.by/class-2/20-razdely/klassifikatsiya-4/66-printsipy-oop)
+- [Часто используемые локаторы - селекторы (xPath-css)] (https://qastart.by/class-2/20-razdely/klassifikatsiya-4/75-chasto-ispolzuemye-lokatory-selektory-xpath-css)
+# Собеседование
+***
+- [Библия тестировщика, часть 1](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%201.md)
+- [Библия тестировщика, часть 2](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%202.md)
+- [Тестирование карандаша](https://habr.com/ru/post/193902)
+- [Обзор частых вопросов по тестированию ПО на собеседованиях и ответы на них](https://habr.com/ru/post/257529/)
+- [Задачи на собеседованиях от Acronis и решения задач от Custis](https://xakep.ru/2015/07/07/coding-challenges-198/)
+- [Примеры крутых резюме для junior тестировщика](http://okiseleva.blogspot.com/2016/07/junior.html)
+- [Пример отличного сопроводительного письма от Насти Кузиной](http://okiseleva.blogspot.com/2016/09/blog-post_15.html)
+- [Топ-5 ошибок в резюме junior тестировщика. Как улучшить свое резюме](https://www.youtube.com/watch?v=PznWqzCGmtY)
+# Всячина
+***
+- [Подкаст тестировщиков](http://radio-qa.com/)
+- [Онлайн-игра Can't Unse](https://cantunsee.space)
+- [Онлайн-игра Code Combat](https://codecombat.com)
+- [Тестирование ПО: суть профессии, требования и заработная плата](https://habr.com/ru/company/habr_career/blog/517812/)
+- [Сертификация ISTQB. Часть 1: быть или не быть?](https://habr.com/ru/post/450748/)
+- [Сертификация ISTQB. Часть 2: Как готовиться к сертификации ISTQB? Истории из практики](https://habr.com/ru/post/453892/)
+- [Целеполагание и контроль деятельности на основе матрицы Эйзенхауэра](https://habr.com/ru/company/smartprogress/blog/245587/)
+- [Почему тестировщиков «джун», «мидл» и «сеньор» не существует. Или как мы уже 10 лет работаем без грейдов](https://habr.com/ru/post/517744/)
 # Краудсорсинг платформы
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
@@ -20,28 +125,3 @@
 - [Ubertesters](https://ubertesters.com/)
 - [Testlio](https://testlio.com/)
 - [Test.io](https://test.io/)
-# Telegram-каналы
-***
-# Youtube-каналы
-***
-# Автоматизация
-***
-- [Библия тестировщика](https://github.com/Vladislav610/QA_bible/blob/master/x%20Automation.md)
-- [Питонтьютор](http://pythontutor.ru)
-- [Python для начинающих](https://pythonworld.ru)
-# Всячина
-***
-- [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
-- [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet)
-- [Подкаст тестировщиков](http://radio-qa.com/)
-- [Библия тестировщика, часть 1](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%201.md)
-- [Библия тестировщика, часть 2](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%202.md)
-- [Онлайн-игра Can't Unse](https://cantunsee.space)
-- [Онлайн-игра Code Combat](https://codecombat.com)
-- [Тестирование карандаша](https://habr.com/ru/post/193902)
-- [Обзор частых вопросов по тестированию ПО на собеседованиях и ответы на них](https://habr.com/ru/post/257529/)
-- [Тестирование ПО: суть профессии, требования и заработная плата](https://habr.com/ru/company/habr_career/blog/517812/)
-- [Сертификация ISTQB. Часть 1: быть или не быть?](https://habr.com/ru/post/450748/)
-- [Сертификация ISTQB. Часть 2: Как готовиться к сертификации ISTQB? Истории из практики](https://habr.com/ru/post/453892/)
-- [Целеполагание и контроль деятельности на основе матрицы Эйзенхауэра](https://habr.com/ru/company/smartprogress/blog/245587/)
-- [Почему тестировщиков «джун», «мидл» и «сеньор» не существует. Или как мы уже 10 лет работаем без грейдов](https://habr.com/ru/post/517744/)
