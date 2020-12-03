@@ -36,15 +36,6 @@
 - [Быстрые тесты](https://software-testing.ru/library/testing/test-analysis/3352-littleblackbookontestdesign9)
 - [Метод бисекционного деления в тестировании](https://software-testing.ru/library/testing/test-analysis/3192-method-bisectional-division)
 - [Тестирование кнопок](https://software-testing.ru/library/testing/general-testing/3056-testing-buttons)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 # REST API/ SOAP API/ Postman
 ***
 - [REST / SOAP](https://qastart.by/class-2/23-rest-soap)
@@ -307,7 +298,7 @@
 - [Семь типов тестировщиков](https://software-testing.ru/library/testing/general-testing/2859-7-types-testers)
 - [Какие баги никогда не будут поправлены, и как с этим жить](https://software-testing.ru/library/testing/general-testing/2785-what-bugs-wil-never-be-fixed)
 - [Какая разница между тест-аналитиком, системным аналитиком и бизнес-аналитиком](https://software-testing.ru/library/testing/general-testing/2704-what-is-the-difference-between-the-analysts)
-# Краудтестинг 
+# Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
 - [Testbirds](https://nest.testbirds.com/home/tester)
