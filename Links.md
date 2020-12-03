@@ -3,9 +3,10 @@
 - [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789), [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410), [Методологии, Модели и Фреймворки](https://qastart.by/class/models)
-- [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m), [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
+- [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m), [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html), [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://software-testing.ru/library/testing/other-testing/2854-smoke-sanity-regression-re-test), [A/B тестирование](https://software-testing.ru/library/testing/other-testing/2729-a-b-testing)
 - [Тестирование методом черного ящика](https://habr.com/ru/post/462837/), [Особенности тестирования «черного ящика»](https://software-testing.ru/library/testing/functional-testing/2675-key-principles-of-black-box-testing)
-- [Исследовательское тестирование: когда его стоит применять и как это делать](https://habr.com/ru/company/redmadrobot/blog/280618/), [Введение в исследовательское тестирование](https://software-testing.ru/library/testing/other-testing/2890-pathway-exploratory-testing), [Туры в исследовательском тестировании](https://habr.com/ru/post/328990/)
+- [Особенности тестирования «серого ящика»](https://software-testing.ru/library/testing/other-testing/2581-key-principles-of-gray-box-testing)
+- [Исследовательское тестирование: когда его стоит применять и как это делать](https://habr.com/ru/company/redmadrobot/blog/280618/), [Введение в исследовательское тестирование](https://software-testing.ru/library/testing/other-testing/2890-pathway-exploratory-testing), [Туры в исследовательском тестировании](https://habr.com/ru/post/328990/), [Создание плана исследовательского тестирования: картография ПО](https://software-testing.ru/library/testing/other-testing/2701-building-exploratory-test-plan), [Переводы туров для исследовательского тестирования](https://www.software-testing.ru/library/testing/testing-for-beginners/2965-exploratory-software-testing)
 - [Тест-план на одну страницу](https://software-testing.ru/library/testing/test-analysis/2405-the-one-page-test-plan), [Что должно входить в тест-план](https://software-testing.ru/library/testing/general-testing/2920-what-should-test-plan), [Тест План)](http://www.protesting.ru/testing/plan.html)
 - [Что такое тест-кейс и как его писать](http://okiseleva.blogspot.com/2014/08/blog-post.html), [Тест-кейсы](https://software-testing.ru/library/testing/general-testing/2330-youarenotdoneyet), [Тестовый случай (Test Case)](http://www.protesting.ru/testing/testcase.html)
 - [Что такое чек-лист?](https://sitechco.ru/2011/08/chto-takoe-chek-list/), [Какой результат писать в чек-листе](http://okiseleva.blogspot.com/2015/03/blog-post_33.html), [Чек-лист для тестирования числового поля](https://habr.com/ru/post/525192/), [Полный чек-лист тестирования веб-приложения](https://software-testing.ru/library/testing/testing-for-beginners/2478-complete-web-application-testing-checklist), [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
@@ -16,9 +17,9 @@
 - [Как найти границы на клиенте и сервере](https://habr.com/ru/post/510458/)
 - [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
 - [Как локализовать плавающие баги](https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)
-- [Серьезность и Приоритет Дефекта](http://www.protesting.ru/testing/bugpriority.html), [Серьезность и приоритет дефекта: в чем различие?](https://software-testing.ru/library/testing/functional-testing/2922-bug-serious)
+- [Серьезность и Приоритет Дефекта](http://www.protesting.ru/testing/bugpriority.html), [Серьезность и приоритет дефекта: в чем различие?](https://software-testing.ru/library/testing/functional-testing/2922-bug-serious), [Про Severity - серьезно и несерьезно](https://www.software-testing.ru/library/testing/testing-for-beginners/2100-severity-)
 - [Жизненный цикл бага](http://www.protesting.ru/testing/bug_lifecycle.html)
-- [Как заводить задачи в баг-трекер](http://okiseleva.blogspot.com/2015/02/blog-post_19.html), [Написание баг репорта](http://www.protesting.ru/testing/bugwriting.html), [Распространенные ошибки при составлении баг-репортов](https://habr.com/ru/post/156069/), [4 типичные ошибки оформления бага новичком](http://okiseleva.blogspot.com/2018/09/4.html)
+- [Как заводить задачи в баг-трекер](http://okiseleva.blogspot.com/2015/02/blog-post_19.html), [Написание баг репорта](http://www.protesting.ru/testing/bugwriting.html), [Распространенные ошибки при составлении баг-репортов](https://habr.com/ru/post/156069/), [4 типичные ошибки оформления бага новичком](http://okiseleva.blogspot.com/2018/09/4.html), [Создание хороших баг-репортов](https://software-testing.ru/library/testing/bug-tracking/3469-writing-good-bug-reports), []Разбираемся с баг-репортом](https://software-testing.ru/library/testing/bug-tracking/3388-blogarchives487131),[Как закрывать задачи в баг-трекере](https://software-testing.ru/library/testing/bug-tracking/3193-close-tasks-bug-tracker)
 - [Тестовое Покрытие (Test Coverage)](http://www.protesting.ru/testing/testcoverage.html)
 - [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels), [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
 - [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura)
@@ -64,12 +65,16 @@
 - [Как отправить SOAP-запрос в Soap Ui](https://okiseleva.blogspot.com/2017/07/soap-soap-ui.html)
 - [Как отправить массив через Soap Ui](https://okiseleva.blogspot.com/2019/03/soap-ui.html)
 - [Где потестировать API](https://reqres.in/), [Где потестировать API еще](http://httpbin.org/), [Users](https://okiseleva.blogspot.com/2017/04/users-soap-rest.html), [Swagger Petstore](https://okiseleva.blogspot.com/2018/12/swagger-petstore-rest.html)
-# SQL
+- [Что такое XML], (https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
+# Базы данных
 ***
+- [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
+- [Тестирование реляционных баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3267-testing-with-relational-databases)
 - [SQL](https://qastart.by/class-6)
 - [Команды](https://www.dropbox.com/s/pjvdrrh7ap3jwlq/SQL.docx?dl=0)
 - [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
 - [Joins](http://barbaricqa.com/blog/wp-content/uploads/2013/10/SQL-Joins-visualisation.jpeg)
+- [Самое простое в мире руководство по MongoDB](https://www.software-testing.ru/library/testing/testing-for-beginners/3287-mongodb)
 # GIT
 - [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
@@ -107,6 +112,7 @@
 - [Mockaroo — генератор реалистичных тестовых данных. CSV, XLS, JSON, XML](http://okiseleva.blogspot.com/2019/07/mockaroo-csv-xls-json-xml.html)
 - [Не лайтхаусом единым: как проверить свой сайт со всех сторон](https://software-testing.ru/library/testing/other-testing/3456-lighthouse)
 - [Cервис проверки названия багов](http://bugred.ru)
+- [Шесть советов и четыре инструмента для тестирования загрузки файлов](https://www.software-testing.ru/library/testing/testing-for-beginners/3318-six-tips-and-four-tools-for-file-upload)
 # Тестирование мобильных приложений
 ***
 - [Особенности тестирования приложений на мобильных устройствах](https://enterra.ru/blog/mobile_qa/)
@@ -184,7 +190,10 @@
 ***
 - [Тестирование игр](http://blog.aksi.rocks/2016/06/blog-post.html)
 - [Тестировать игры – это очень трудно!](https://software-testing.ru/library/testing/other-testing/2260-testing-games-is-hard)
-# Автоматизация и языки
+- [Контроль качества в играх с сервисной моделью](https://software-testing.ru/library/testing/other-testing/2541-qa-test-game-services)
+- [Тестировщики игр должны гордиться своей работой!](https://software-testing.ru/library/testing/other-testing/2367-games-testers-should-be-proud-of-their)
+- [Тестируй как игрок](https://software-testing.ru/library/testing/other-testing/2261-testing-like-a-gamer)
+# Автоматизация
 ***
 - [Библия тестировщика, автоматизация](https://github.com/Vladislav610/QA_bible/blob/master/x%20Automation.md)
 - [Питонтьютор](http://pythontutor.ru)
@@ -201,6 +210,8 @@
 - [Что такое CI (Continuous Integration)](https://habr.com/ru/post/508216/)
 - [Автоматизация тестирования REST API при помощи Postman и JavaScript](https://quality-lab.ru/blog/test-automation-rest-api-using-postman-and-javascript/)
 - [Автоматизированное тестирование безопасности с ZAP Python API](https://www.software-testing.ru/library/testing/security/3278-automated-security-testing-using-zap-python-api)
+- [7 правил хорошего тона при написании Unit-тестов](https://software-testing.ru/library/testing/other-testing/2730-unit-tests)
+- [Тестирование параллельных процессов](https://software-testing.ru/library/testing/other-testing/2530-testing-parallel-processes)
 # Собеседование
 ***
 - [Библия тестировщика, часть 1](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%201.md), [часть 2](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%202.md)
@@ -211,9 +222,18 @@
 - [Пример отличного сопроводительного письма от Насти Кузиной](http://okiseleva.blogspot.com/2016/09/blog-post_15.html)
 - [Топ-5 ошибок в резюме junior тестировщика. Как улучшить свое резюме](https://www.youtube.com/watch?v=PznWqzCGmtY)
 - [Как описывать навыки в резюме](https://okiseleva.blogspot.com/2019/11/blog-post_16.html)
+- [Что нужно, чтобы устроиться на первую работу тестировщиком](https://www.software-testing.ru/library/testing/testing-for-beginners/3230-jedi-point)
 # Telegram-каналы
 ***
 - [Интерфейсы без шелухи](https://t.me/dangry)
+- [Серьёзный тестер](https://teleg.run/serious_tester)
+- [Типичный тестер]()
+- [QA Alliance](https://t.me/qalliance)
+- []()
+- []()
+- []()
+- []()
+- []()
 # Всячина
 ***
 - [Подкаст тестировщиков](http://radio-qa.com/)
@@ -228,6 +248,8 @@
 - [Эффект пестицида](http://okiseleva.blogspot.com/2020/11/blog-post_26.html)
 - [Тестирование в 2022 году](https://www.software-testing.ru/library/testing/general-testing/3288-2022)
 - [Сколько стоят тестировщики и от чего зависят их зарплаты? Строим портрет успешного QA-специалиста](https://software-testing.ru/library/testing/general-testing/3051-salary2018)
+- [Кто ты, QA-инженер или тестировщик?](https://www.software-testing.ru/library/testing/testing-for-beginners/3341-qa-vs-tester)
+- [За какие ошибки могут уволить начинающего тестировщика?](https://www.software-testing.ru/library/testing/testing-for-beginners/3312-za-kakie-oshibki-mogut-uvolit-nachinayushchego-testirovshchika)
 # Краудсорсинг платформы
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
