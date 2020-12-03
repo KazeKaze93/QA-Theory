@@ -41,7 +41,7 @@
 - [REST / SOAP](https://qastart.by/class-2/23-rest-soap)
 - [Типы HTTP-запросов и философия REST](https://habr.com/ru/post/50147/)
 - [Основные HTTP-коды для чайников в картинках](http://www.controlstyle.ru/articles/text/http-codes-explained/)
-- [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/), []Создание коллекции в Postman](https://software-testing.ru/library/testing/testing-automation/2970-creating-a-postman-collection), [Добавление правил в Postman](https://software-testing.ru/library/testing/testing-automation/2990-adding-postman-assertions), [Использование переменных в Postman](https://software-testing.ru/library/testing/testing-automation/2992-using-variables-in-postman)
+- [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/), [Создание коллекции в Postman](https://software-testing.ru/library/testing/testing-automation/2970-creating-a-postman-collection), [Добавление правил в Postman](https://software-testing.ru/library/testing/testing-automation/2990-adding-postman-assertions), [Использование переменных в Postman](https://software-testing.ru/library/testing/testing-automation/2992-using-variables-in-postman)
 - [WEB](https://qastart.by/class-2)
 - [Особенности тестирования веб-приложений](https://quality-lab.ru/blog/key-principles-of-web-testing/)
 - [Введение в REST-запросы и тестирование GET-запросов](https://software-testing.ru/library/testing/testing-automation/2958-testing-get-requests)
