@@ -346,3 +346,5 @@
 - [Ubertesters](https://ubertesters.com/)
 - [Testlio](https://testlio.com/)
 - [Test.io](https://test.io/)
+- [fl.ru](https://www.fl.ru/)
+- [freelancehunt.com](https://freelancehunt.com/)
