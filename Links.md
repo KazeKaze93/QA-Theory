@@ -348,3 +348,5 @@
 - [Test.io](https://test.io/)
 - [fl.ru](https://www.fl.ru/)
 - [freelancehunt.com](https://freelancehunt.com/)
+- [kwork.ru](https://kwork.ru/)
+- [upwork.com](https://www.upwork.com/)
