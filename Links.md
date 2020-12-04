@@ -7,6 +7,7 @@
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789)
 - [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410),
 - [Методологии, Модели и Фреймворки](https://qastart.by/class/models)
+- [Руководство по Скраму](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Russian.pdf)
 - [Процесс тестирования в Kanban](https://software-testing.ru/library/testing/test-management/3395-kanban)
 - [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
 - [Жизненный цикл программного продукта](https://it-black.ru/zhiznennyy-tsikl-programmnogo-produkta/)
