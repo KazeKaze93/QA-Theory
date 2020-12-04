@@ -334,6 +334,7 @@
 - [Какая разница между тест-аналитиком, системным аналитиком и бизнес-аналитиком](https://software-testing.ru/library/testing/general-testing/2704-what-is-the-difference-between-the-analysts)
 - [Пирамида обучения: как запомнить что-то раз и навсегда](https://externat.foxford.ru/polezno-znat/piramida-obucheniya)
 - [Что должен знать тестировщик бэкенда](https://habr.com/ru/company/funcorp/blog/491188/)
+- [7 книг, которые помогут каждому тестировщику](https://techrocks.ru/2018/01/13/book-list-for-software-testers/)
 # Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
