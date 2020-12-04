@@ -288,6 +288,7 @@
 - [Топ-5 ошибок в резюме junior тестировщика. Как улучшить свое резюме](https://www.youtube.com/watch?v=PznWqzCGmtY)
 - [Как описывать навыки в резюме](https://okiseleva.blogspot.com/2019/11/blog-post_16.html)
 - [Что нужно, чтобы устроиться на первую работу тестировщиком](https://www.software-testing.ru/library/testing/testing-for-beginners/3230-jedi-point)
+- [Хабр-карьера](https://career.habr.com/)
 # Telegram-каналы
 ***
 - [Интерфейсы без шелухи](https://t.me/dangry)
@@ -312,8 +313,7 @@
 # Всячина
 ***
 - [Подкаст тестировщиков](http://radio-qa.com/)
-- [Онлайн-игра Can't Unse](https://cantunsee.space)
-- [Онлайн-игра Code Combat](https://codecombat.com)
+- [Онлайн-игра Can't Unse](https://cantunsee.space), [Онлайн-игра Code Combat](https://codecombat.com)
 - [Тестирование ПО: суть профессии, требования и заработная плата](https://habr.com/ru/company/habr_career/blog/517812/)
 - <ins>**ISTQB**</ins>: [Сертификация ISTQB. Часть 1](https://habr.com/ru/post/450748/), [Часть 2](https://habr.com/ru/post/453892/), [Сертификация ISTQB: преимущества и особенности](https://software-testing.ru/library/testing/general-testing/3133-istqb), [Устаревшие концепции тестирования: сертификация](https://software-testing.ru/library/around-testing/job/3365-outdated-testing-concepts-4-certification), [ISTQB: как подготовиться и где сдавать](https://vk.com/@zapiskisedogotestera-istqb-kak-podgotovitsya-i-gde-sdavat), [ISTQB: кому сдавать](https://vk.com/@zapiskisedogotestera-istqb-komu-sdavat)
 - [Целеполагание и контроль деятельности на основе матрицы Эйзенхауэра](https://habr.com/ru/company/smartprogress/blog/245587/)
