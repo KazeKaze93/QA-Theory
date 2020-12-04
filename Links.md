@@ -64,7 +64,7 @@
 - [Сообщения об ошибках](https://software-testing.ru/library/testing/bug-tracking/2117-bugs-reports), [Сообщения об ошибках — тоже документация, тестируйте их!](http://okiseleva.blogspot.com/2015/06/blog-post_8.html)
 - [Как составлять вариант использования](http://okiseleva.blogspot.com/2015/11/blog-post_86.html)
 - [Тормозит страница в вебе, какую информацию собрать для разработчика](http://okiseleva.blogspot.com/2017/04/blog-post_21.html)
-- [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1)
+- <ins>**DevTools**</ins>: [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1), [14 наиболее полезных особенностей Chrome DevTools](https://proglib.io/p/chrome-devtools/), [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/)
 - [Тестируем вёрстку правильно](https://habr.com/ru/company/2gis/blog/277457/)
 - [Что такое API](https://habr.com/ru/post/464261/)
 - [Тестирование на основе рисков, часть 1](https://software-testing.ru/library/testing/other-testing/3190-risk-based-testing-part-one-talking-about-risks-over-types-of-testing), [часть 2](https://software-testing.ru/library/testing/other-testing/3203-risk-based-testing-part-two-uncovering-risks), [часть 3](https://software-testing.ru/library/testing/other-testing/3213-risk-based-testing-part-three-bug-prevention-and-bug-detection)
