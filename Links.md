@@ -229,6 +229,11 @@
 - [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
 - [Joins](http://barbaricqa.com/blog/wp-content/uploads/2013/10/SQL-Joins-visualisation.jpeg)
 - [Самое простое в мире руководство по MongoDB](https://www.software-testing.ru/library/testing/testing-for-beginners/3287-mongodb)
+- [SQL и NoSQL: разбираемся в основных моделях баз данных](https://tproger.ru/translations/sql-nosql-database-models/)
+- [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
+- [Введение в JSON](https://www.json.org/json-ru.html)
+- [Наиболее используемые команды MySQL](https://pai-bx.com/wiki/mysql/1988-the-most-used-mysql-command/)
+- [MySQL/Руководство для начинающих](https://wiki.gentoo.org/wiki/MySQL/Startup_Guide/ru)
 # GIT
 - [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
