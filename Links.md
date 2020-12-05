@@ -1,8 +1,15 @@
 # Ручное тестирование
 ***
-- [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
-- [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
-- [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura), [Архитектура клиент-сервер](https://sergeygavaga.gitbooks.io/kurs-lektsii-testirovanie-programnogo-obespecheni/content/lektsiya-6-ch1-arhitektura-klient-server.html)
+## Основы компьютерных сетей
+- [Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
+- [Протоколы верхнего уровня](https://habr.com/ru/post/307714/)
+- [Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/post/308636/)
+- [Тема №4. Сетевые устройства и виды применяемых кабелей](https://habr.com/ru/post/312340/)
+- [Понятие IP адресации, масок подсетей и их расчет](https://habr.com/ru/post/314484/)
+- [Понятие VLAN, Trunk и протоколы VTP и DTP](https://habr.com/ru/post/319080/)
+- [Протокол связующего дерева: STP](https://habr.com/ru/post/321132/)
+- [Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/post/334778/)
+- [Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/post/335090/)
 ## Методологии разработки и жизненный цикл ПО
 - [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789)
 - [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410),
@@ -58,6 +65,8 @@
 - [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels)
 - [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
 ## Прочее
+- [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
+- [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura), [Архитектура клиент-сервер](https://sergeygavaga.gitbooks.io/kurs-lektsii-testirovanie-programnogo-obespecheni/content/lektsiya-6-ch1-arhitektura-klient-server.html)
 - [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
 - [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
 - [Тестовое Покрытие (Test Coverage)](http://www.protesting.ru/testing/testcoverage.html)
