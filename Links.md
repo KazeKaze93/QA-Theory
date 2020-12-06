@@ -245,6 +245,7 @@
 - [MySQL/Руководство для начинающих](https://wiki.gentoo.org/wiki/MySQL/Startup_Guide/ru)
 - [Основы правил проектирования базы данных](https://habr.com/ru/post/514364/)
 - [Руководство по проектированию реляционных баз данных (1-3 часть из 15)](https://habr.com/ru/post/193136/), [4-6 часть из 15](https://habr.com/ru/post/193284/), [7-9 часть из 15](https://habr.com/ru/post/193380/), [10-13 часть из 15](https://habr.com/ru/post/193756/), [14-15 часть из 15](https://habr.com/ru/post/194714/), [Каскадное удаление данных](https://habr.com/ru/post/194738/)
+- [Документация к Postgres Pro Standard 12.5.1](https://postgrespro.ru/docs/postgrespro/12/index)
 # GIT
 - [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
