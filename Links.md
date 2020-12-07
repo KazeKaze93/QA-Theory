@@ -64,6 +64,10 @@
 ## Уровни тестирования
 - [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels)
 - [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
+## DevTools
+- [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1)
+- [14 наиболее полезных особенностей Chrome DevTools](https://proglib.io/p/chrome-devtools/)
+- [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/)
 ## Прочее
 - [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura), [Архитектура клиент-сервер](https://sergeygavaga.gitbooks.io/kurs-lektsii-testirovanie-programnogo-obespecheni/content/lektsiya-6-ch1-arhitektura-klient-server.html)
@@ -73,14 +77,13 @@
 - [Сообщения об ошибках](https://software-testing.ru/library/testing/bug-tracking/2117-bugs-reports), [Сообщения об ошибках — тоже документация, тестируйте их!](http://okiseleva.blogspot.com/2015/06/blog-post_8.html)
 - [Как составлять вариант использования](http://okiseleva.blogspot.com/2015/11/blog-post_86.html)
 - [Тормозит страница в вебе, какую информацию собрать для разработчика](http://okiseleva.blogspot.com/2017/04/blog-post_21.html)
-- <ins>**DevTools**</ins>: [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1), [14 наиболее полезных особенностей Chrome DevTools](https://proglib.io/p/chrome-devtools/), [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/)
 - [Тестируем вёрстку правильно](https://habr.com/ru/company/2gis/blog/277457/)
 - [Что такое API](https://habr.com/ru/post/464261/)
 - [Тестирование на основе рисков, часть 1](https://software-testing.ru/library/testing/other-testing/3190-risk-based-testing-part-one-talking-about-risks-over-types-of-testing), [часть 2](https://software-testing.ru/library/testing/other-testing/3203-risk-based-testing-part-two-uncovering-risks), [часть 3](https://software-testing.ru/library/testing/other-testing/3213-risk-based-testing-part-three-bug-prevention-and-bug-detection)
 - [Быстрые тесты](https://software-testing.ru/library/testing/test-analysis/3352-littleblackbookontestdesign9)
 - [Метод бисекционного деления в тестировании](https://software-testing.ru/library/testing/test-analysis/3192-method-bisectional-division)
 - [Тестирование кнопок](https://software-testing.ru/library/testing/general-testing/3056-testing-buttons)
-- [Принципы тестирования](https://qalight.com.ua/baza-znaniy/printsipyi-testirovaniya/), [7 Принципов тестирования с примерами](https://medium.com/@a.yevtukhov/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-331a2ab7ff43)
+- [7 Принципов тестирования с примерами](https://medium.com/@a.yevtukhov/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-331a2ab7ff43)
 # Тестирование мобильных приложений
 ***
 - [Особенности тестирования приложений на мобильных устройствах](https://enterra.ru/blog/mobile_qa/)
