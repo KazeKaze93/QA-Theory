@@ -376,3 +376,4 @@
 - [freelancehunt.com](https://freelancehunt.com/)
 - [kwork.ru](https://kwork.ru/)
 - [upwork.com](https://www.upwork.com/)
+- [crowdtesting.ru](https://crowdtesting.ru/)
