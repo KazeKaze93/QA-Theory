@@ -22,6 +22,7 @@
 - [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
 ## Виды тестирования
 - [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m)
+- [Типы тестирования](https://beqa.pro/blog/testing-types/)
 - [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
 - [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://software-testing.ru/library/testing/other-testing/2854-smoke-sanity-regression-re-test)
 - [A/B тестирование](https://software-testing.ru/library/testing/other-testing/2729-a-b-testing)
@@ -65,6 +66,7 @@
 ## Уровни тестирования
 - [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels)
 - [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
+- [Уровни тестирования](https://beqa.pro/blog/testing-levels/)
 ## DevTools
 - [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1)
 - [14 наиболее полезных особенностей Chrome DevTools](https://proglib.io/p/chrome-devtools/)
@@ -362,6 +364,7 @@
 - [Пирамида обучения: как запомнить что-то раз и навсегда](https://externat.foxford.ru/polezno-znat/piramida-obucheniya)
 - [Что должен знать тестировщик бэкенда](https://habr.com/ru/company/funcorp/blog/491188/)
 - [7 книг, которые помогут каждому тестировщику](https://techrocks.ru/2018/01/13/book-list-for-software-testers/)
+- [Профессия тестировщик](https://beqa.pro/blog/qa-qc-tester-profession/)
 # Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
