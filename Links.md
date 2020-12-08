@@ -19,6 +19,7 @@
 - [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
 - [Жизненный цикл программного продукта](https://it-black.ru/zhiznennyy-tsikl-programmnogo-produkta/)
 - [Жизненный цикл продуктов в IT – какие фазы в него входят и почему](https://vc.ru/azoft/150275-zhiznennyy-cikl-produktov-v-it-kakie-fazy-v-nego-vhodyat-i-pochemu)
+- [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
 ## Виды тестирования
 - [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m)
 - [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
