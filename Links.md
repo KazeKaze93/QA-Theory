@@ -20,6 +20,7 @@
 - [Жизненный цикл программного продукта](https://it-black.ru/zhiznennyy-tsikl-programmnogo-produkta/)
 - [Жизненный цикл продуктов в IT – какие фазы в него входят и почему](https://vc.ru/azoft/150275-zhiznennyy-cikl-produktov-v-it-kakie-fazy-v-nego-vhodyat-i-pochemu)
 - [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
+- [Разница между Scrum и Kanban](https://www.pmservices.ru/project-management-news/raznica-mezhdu-scrum-i-kanban/)
 ## Виды тестирования
 - [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m)
 - [Типы тестирования](https://beqa.pro/blog/testing-types/)
@@ -235,6 +236,7 @@
 - [Как отправить массив через Soap Ui](https://okiseleva.blogspot.com/2019/03/soap-ui.html)
 - [Где потестировать API](https://reqres.in/), [Где потестировать API еще](http://httpbin.org/), [Users](https://okiseleva.blogspot.com/2017/04/users-soap-rest.html), [Swagger Petstore](https://okiseleva.blogspot.com/2018/12/swagger-petstore-rest.html)
 - [Что такое XML](https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
+- [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 # Базы данных
 ***
 - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
@@ -365,6 +367,7 @@
 - [Что должен знать тестировщик бэкенда](https://habr.com/ru/company/funcorp/blog/491188/)
 - [7 книг, которые помогут каждому тестировщику](https://techrocks.ru/2018/01/13/book-list-for-software-testers/)
 - [Профессия тестировщик](https://beqa.pro/blog/qa-qc-tester-profession/)
+- [Управление тестовыми данными](https://telegra.ph/Upravlenie-testovymi-dannymi-12-09)
 # Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
