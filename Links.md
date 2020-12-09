@@ -72,6 +72,7 @@
 - [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1)
 - [14 наиболее полезных особенностей Chrome DevTools](https://proglib.io/p/chrome-devtools/)
 - [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/)
+- [Как использовать Chrome DevTools при анализе сайта](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#3)
 ## Прочее
 - [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
 - [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura), [Архитектура клиент-сервер](https://sergeygavaga.gitbooks.io/kurs-lektsii-testirovanie-programnogo-obespecheni/content/lektsiya-6-ch1-arhitektura-klient-server.html)
