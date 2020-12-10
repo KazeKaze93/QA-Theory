@@ -180,6 +180,7 @@
 - [Что такое тест-персона?](https://www.software-testing.ru/library/testing/usability-testing/2978-test-persona)
 - [Атака на юзабилити](https://www.software-testing.ru/library/testing/usability-testing/2687-usability-testing)
 - [Что такое UX/UI дизайн на самом деле?](https://habr.com/ru/post/321312/)
+- [UI controls на русском](https://habr.com/ru/post/223929/)
 # Тестирование игр
 ***
 - [Тестирование игр](http://blog.aksi.rocks/2016/06/blog-post.html)
