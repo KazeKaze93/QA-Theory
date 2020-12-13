@@ -369,6 +369,7 @@
 - [7 книг, которые помогут каждому тестировщику](https://techrocks.ru/2018/01/13/book-list-for-software-testers/)
 - [Профессия тестировщик](https://beqa.pro/blog/qa-qc-tester-profession/)
 - [Управление тестовыми данными](https://telegra.ph/Upravlenie-testovymi-dannymi-12-09)
+- [html5book](https://html5book.ru/)
 # Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
