@@ -309,6 +309,7 @@
 - [8 отличных сервисов для генерации данных](https://software-testing.ru/library/testing/testing-tools/2857-8-services-for-data-generation)
 - [Выбор подходящего инструмента для тестирования JavaScript](https://software-testing.ru/library/testing/testing-tools/2763-javascript-testing-tools)
 - [Тюнинг браузера для эффективного тестирования](https://software-testing.ru/library/testing/testing-tools/2040-browser-tuning)
+- [Xenu Link Evaluator-«чекер» веб-приложения на предмет наличия в нем «битых» ссылок.](https://xenus-link-sleuth.softonic.ru/?ex=BB-1549.1)
 # Собеседование
 ***
 - [Библия тестировщика, часть 1](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%201.md), [часть 2](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%202.md)
