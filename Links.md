@@ -370,6 +370,7 @@
 - [Профессия тестировщик](https://beqa.pro/blog/qa-qc-tester-profession/)
 - [Управление тестовыми данными](https://telegra.ph/Upravlenie-testovymi-dannymi-12-09)
 - [html5book](https://html5book.ru/)
+- [Валидатор вёрстки](https://validator.w3.org/)
 # Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
@@ -385,4 +386,3 @@
 - [freelancehunt.com](https://freelancehunt.com/)
 - [kwork.ru](https://kwork.ru/)
 - [upwork.com](https://www.upwork.com/)
-- [crowdtesting.ru](https://crowdtesting.ru/)
