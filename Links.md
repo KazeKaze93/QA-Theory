@@ -89,6 +89,7 @@
 - [Метод бисекционного деления в тестировании](https://software-testing.ru/library/testing/test-analysis/3192-method-bisectional-division)
 - [Тестирование кнопок](https://software-testing.ru/library/testing/general-testing/3056-testing-buttons)
 - [7 Принципов тестирования с примерами](https://medium.com/@a.yevtukhov/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-331a2ab7ff43)
+- [Клиент-серверная архитектура в картинках](https://habr.com/ru/post/495698/)
 # Тестирование мобильных приложений
 ***
 - [Особенности тестирования приложений на мобильных устройствах](https://enterra.ru/blog/mobile_qa/)
@@ -217,7 +218,7 @@
 - [Автотестирование: десять лайфхаков от команды Skyeng](https://software-testing.ru/library/testing/testing-automation/3218--skyeng)
 - [Кликанье по Web-элементам при помощи Selenium WebDriver](https://software-testing.ru/library/testing/testing-automation/3082--web-selenium-webdriver)
 - [Какие API-тесты автоматизировать, и когда это надо делать](https://software-testing.ru/library/testing/testing-automation/3034-what-api-tests-to-automate-and-when-to), [Автоматизация ваших API-тестов](https://software-testing.ru/library/testing/testing-automation/3028-automating-your-api-tests)
-# REST API/ SOAP API/ Postman
+# API
 ***
 - [REST / SOAP](https://qastart.by/class-2/23-rest-soap)
 - [Типы HTTP-запросов и философия REST](https://habr.com/ru/post/50147/)
@@ -239,6 +240,7 @@
 - [Где потестировать API](https://reqres.in/), [Где потестировать API еще](http://httpbin.org/), [Users](https://okiseleva.blogspot.com/2017/04/users-soap-rest.html), [Swagger Petstore](https://okiseleva.blogspot.com/2018/12/swagger-petstore-rest.html)
 - [Что такое XML](https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+- [От шока до принятия: пять стадий тестирования API](https://dou.ua/lenta/columns/api-testing-stages/?from=slider)
 # Базы данных
 ***
 - [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
@@ -265,6 +267,7 @@
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
 - [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet)
 - [Git](https://qastart.by/class-5)
+- [Тренажёр GIT](https://learngitbranching.js.org/?locale=ru_RU)
 # Инструменты
 ***
 - [Как сгенерить большую строку, инструменты](http://okiseleva.blogspot.com/2015/08/blog-post_8.html)
