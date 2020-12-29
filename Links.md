@@ -262,6 +262,7 @@
 - [Тренажёр для PostgreSQL на английском](https://pgexercises.com/questions/basic/)
 - [Еще один тренажёр](https://sql-academy.org/en/trainer?sort=byId)
 - [Сайт-тренажёр на русском.](https://www.sql-ex.ru/?Lang=0)
+- [информационный ресурс о SQL](http://2sql.ru/)
 # GIT
 - [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
