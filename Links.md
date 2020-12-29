@@ -263,6 +263,8 @@
 - [Еще один тренажёр](https://sql-academy.org/en/trainer?sort=byId)
 - [Сайт-тренажёр на русском.](https://www.sql-ex.ru/?Lang=0)
 - [информационный ресурс о SQL](http://2sql.ru/)
+- [Руководство по тестированию баз данных](https://senior.ua/articles/rukovodstvo-po-testirovaniyu-baz-dannyh)
+- [Тестирование баз данных](http://getbug.ru/testirovanie-baz-dannyih/)
 # GIT
 - [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
 - [Чёрт побери, Git!?!](https://dangitgit.com/ru)
