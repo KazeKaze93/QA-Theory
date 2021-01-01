@@ -116,6 +116,7 @@
 - [Тестирование мобильных приложений: tips & tricks](https://software-testing.ru/library/testing/mobile-testing/2170-tipsatricks-mobile)
 - [6 «жизненных» советов или ЛАЙФХАК по мобильному тестированию ](https://software-testing.ru/library/testing/mobile-testing/2010-lifehack-mobile-testing)
 - [Лайфхаки ручного тестирования на мобилках](https://software-testing.ru/library/testing/mobile-testing/2004-gorlova-sqadays-15)
+- [Чек-лист тестирования мобильных приложений](https://habr.com/ru/post/534190/)
 # Нагрузочное тестирование
 ***
 - [О нагрузочном тестировании](https://habr.com/ru/company/oleg-bunin/blog/95060/)
@@ -328,6 +329,8 @@
 - [Как описывать навыки в резюме](https://okiseleva.blogspot.com/2019/11/blog-post_16.html)
 - [Что нужно, чтобы устроиться на первую работу тестировщиком](https://www.software-testing.ru/library/testing/testing-for-beginners/3230-jedi-point)
 - [Хабр-карьера](https://career.habr.com/)
+- [40 ситуаций, о которых вас спросят на собеседовании](https://habr.com/ru/company/icanchoose/blog/296730/)
+- [51 вопрос, который вы должны задать на собеседовании](https://icanchoose.ru/blog/51-vopros-kotoryj-vy-mozhete-zadat-na-intervyu/)
 # Telegram-каналы
 ***
 - [Интерфейсы без шелухи](https://t.me/dangry)
