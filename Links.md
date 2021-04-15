@@ -48,6 +48,8 @@
 - [Чек-лист для тестирования числового поля](https://habr.com/ru/post/525192/)
 - [Полный чек-лист тестирования веб-приложения](https://software-testing.ru/library/testing/testing-for-beginners/2478-complete-web-application-testing-checklist)
 - [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
+- [Функциональное тестирование интернет магазина](http://www.itqc.ru/blog/e-commerce-functional-testing.html)
+- [Особенности тестирования интернет-магазинов](https://astrio.ru/blog/testing-online-shop/)
 ## Тест-дизайн
 - Техники: [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html), [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html), [Немного о простом. Тест-дизайн. Часть 1](https://habr.com/ru/post/462553/)
 - <ins>**Классы эквивалентности**</ins>: [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html), [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains), [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html), [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3), [Тестирование полей ввода](http://blog.shumoos.com/archives/67), [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/), [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
@@ -320,6 +322,7 @@
 # Собеседование
 ***
 - [Библия тестировщика, часть 1](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%201.md), [часть 2](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%202.md)
+- [Подборка материалов для подготовки к QA Interview (QA, Automation & Python, Linux & Networks)](https://xwizard-test.blogspot.com/2017/02/qa-interview-qa-automation-python-linux.html)
 - [Тестирование карандаша](https://habr.com/ru/post/193902)
 - [Обзор частых вопросов по тестированию ПО на собеседованиях и ответы на них](https://habr.com/ru/post/257529/)
 - [Задачи на собеседованиях от Acronis и решения задач от Custis](https://xakep.ru/2015/07/07/coding-challenges-198/)
@@ -381,6 +384,7 @@
 - [Управление тестовыми данными](https://telegra.ph/Upravlenie-testovymi-dannymi-12-09)
 - [html5book](https://html5book.ru/)
 - [Валидатор вёрстки](https://validator.w3.org/)
+- [Карта знаний QA](https://docs.google.com/spreadsheets/u/0/d/1hl8SY5HgGFj01n2YMcS3EMTDu2s2noTDOTdDZkOkAQU/htmlview#gid=0)
 # Краудтестинг
 ***
 - [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
