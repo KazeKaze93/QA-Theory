@@ -1,0 +1,469 @@
+# Полезные ссылки
+
+## Ручное тестирование
+
+***
+
+### Основы компьютерных сетей
+
+* [Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/)
+* [Протоколы верхнего уровня](https://habr.com/ru/post/307714/)
+* [Протоколы нижних уровней (транспортного, сетевого и канального)](https://habr.com/ru/post/308636/)
+* [Тема №4. Сетевые устройства и виды применяемых кабелей](https://habr.com/ru/post/312340/)
+* [Понятие IP адресации, масок подсетей и их расчет](https://habr.com/ru/post/314484/)
+* [Понятие VLAN, Trunk и протоколы VTP и DTP](https://habr.com/ru/post/319080/)
+* [Протокол связующего дерева: STP](https://habr.com/ru/post/321132/)
+* [Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/post/334778/)
+* [Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/post/335090/)
+
+### Методологии разработки и жизненный цикл ПО
+
+* [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789)
+* [Как объяснить бабушке, что такое Agile за 15 минут с картинками](https://habr.com/ru/post/313410),
+* [Методологии, Модели и Фреймворки](https://qastart.by/class/models)
+* [Руководство по Скраму](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Russian.pdf)
+* [Процесс тестирования в Kanban](https://software-testing.ru/library/testing/test-management/3395-kanban)
+* [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
+* [Жизненный цикл программного продукта](https://it-black.ru/zhiznennyy-tsikl-programmnogo-produkta/)
+* [Жизненный цикл продуктов в IT – какие фазы в него входят и почему](https://vc.ru/azoft/150275-zhiznennyy-cikl-produktov-v-it-kakie-fazy-v-nego-vhodyat-i-pochemu)
+* [Популярные жизненные циклы разработки ПО](https://training.qatestlab.com/blog/technical-articles/popular-software-development-life-cycles/)
+* [Разница между Scrum и Kanban](https://www.pmservices.ru/project-management-news/raznica-mezhdu-scrum-i-kanban/)
+
+### Виды тестирования
+
+* [Виды тестирования](https://qastart.by/class/vidi-testirovaniya-m)
+* [Типы тестирования](https://beqa.pro/blog/testing-types/)
+* [Позитивное и негативное тестирование](http://okiseleva.blogspot.com/2014/02/blog-post_10.html)
+* [В чём разница Smoke, Sanity, Regression, Re-test и как их различать?](https://software-testing.ru/library/testing/other-testing/2854-smoke-sanity-regression-re-test)
+* [A/B тестирование](https://software-testing.ru/library/testing/other-testing/2729-a-b-testing)
+* [Тестирование методом черного ящика](https://habr.com/ru/post/462837/), [Особенности тестирования «черного ящика»](https://software-testing.ru/library/testing/functional-testing/2675-key-principles-of-black-box-testing)
+* [Особенности тестирования «серого ящика»](https://software-testing.ru/library/testing/other-testing/2581-key-principles-of-gray-box-testing)
+* [Тестирование локализации](https://software-testing.ru/library/testing/other-testing/3131-localization-testing)
+* [Кросс-браузерное тестирование](https://software-testing.ru/library/testing/other-testing/3091-cross-browser-testing)
+* [Тестирование Установки (Installation Testing)](https://software-testing.ru/library/testing/functional-testing/725-installation-testing)
+
+### Тест-план
+
+* [Тест-план на одну страницу](https://software-testing.ru/library/testing/test-analysis/2405-the-one-page-test-plan)
+* [Что должно входить в тест-план](https://software-testing.ru/library/testing/general-testing/2920-what-should-test-plan)
+* [Тест План)](http://www.protesting.ru/testing/plan.html)
+* [Как писать план тестирования: что важно не забыть, и с чего начать?](https://software-testing.ru/library/testing/test-analysis/2949-how-to-write-a-software-test-plan)
+
+### Тест-кейсы
+
+* [Что такое тест-кейс и как его писать](http://okiseleva.blogspot.com/2014/08/blog-post.html)
+* [Тест-кейсы](https://software-testing.ru/library/testing/general-testing/2330-youarenotdoneyet)
+* [Тестовый случай (Test Case)](http://www.protesting.ru/testing/testcase.html)
+* [Правила написания предварительных шагов в тест-кейсах](https://software-testing.ru/library/testing/test-analysis/3291-test-case)
+
+### Чек-листы
+
+* [Что такое чек-лист?](https://sitechco.ru/2011/08/chto-takoe-chek-list/)
+* [Какой результат писать в чек-листе](http://okiseleva.blogspot.com/2015/03/blog-post_33.html)
+* [Чек-лист для тестирования числового поля](https://habr.com/ru/post/525192/)
+* [Полный чек-лист тестирования веб-приложения](https://software-testing.ru/library/testing/testing-for-beginners/2478-complete-web-application-testing-checklist)
+* [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habr.com/ru/post/114256/)
+* [Функциональное тестирование интернет магазина](http://www.itqc.ru/blog/e-commerce-functional-testing.html)
+* [Особенности тестирования интернет-магазинов](https://astrio.ru/blog/testing-online-shop/)
+
+### Тест-дизайн
+
+* Техники: [Техники тест дизайна (Test Design Technics)](http://www.protesting.ru/testing/testdesign_technics.html), [Практическое применение техник тест дизайна при разработке тест кейсов](http://www.protesting.ru/testing/testdesign_practice.html), [Немного о простом. Тест-дизайн. Часть 1](https://habr.com/ru/post/462553/)
+* **Классы эквивалентности**: [Класс эквивалентности «Ноль-не ноль»](http://okiseleva.blogspot.com/2016/12/blog-post_15.html), [Классы эквивалентности для строки, которая обозначает число](https://software-testing.ru/library/testing/functional-testing/1238-number-string-subdomains), [Классы эквивалентности для строки, которая обозначает дату](https://okiseleva.blogspot.com/2018/04/blog-post_14.html), [Тестирование текстового поля](https://software-testing.ru/library/testing/test-analysis/3212-testing-text-field3), [Тестирование полей ввода](http://blog.shumoos.com/archives/67), [Тестируем поля логин/пароль](https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/), [Классы эквивалентности для населенных пунктов в адресах](https://okiseleva.blogspot.com/2019/10/blog-post_30.html)
+* **Граничные значения**: [Расширяем тестирование граничных значений](https://software-testing.ru/library/testing/test-analysis/2688-extend-testing-of-boundary-values), [Как найти границы на клиенте и сервере](https://habr.com/ru/post/510458/)
+* **Причина — следствие/Таблица принятия решений**:[Таблица принятия решений](https://qaevolution.ru/testovaya-dokumentaciya/test-dizajn/tablica-prinyatiya-reshenij/), [Таблицы решений и их применение в тестировании](https://training.qatestlab.com/blog/technical-articles/tables-solutions-and-their-usage-in-testing/), [О “Decision Table” простыми словами](https://medium.com/@lazarevazubova/%D0%BE-decision-table-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC%D0%B8-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D0%BC%D0%B8-5a3f5832e079), [Таблицы принятия решений: техника проведения тестирования с использованием Functional Tester от IBM Rational](https://software-testing.ru/library/testing/testing-automation/129--functional-tester-ibm-rational-), [Тестирование таблицы решений](https://ru.photo-555.com/6588784-decision-table-testing)
+* **Предугадывание ошибок**: [Предугадывание ошибки как техника тест-дизайна](https://training.qatestlab.com/blog/technical-articles/predicting-bug-as-a-test-design-technique/)
+* **Диаграммы перехода состояний**:[Тестирование на основе диаграмм состояний сущности](https://habr.com/ru/company/infopulse/blog/261061/), [Тестирование таблицы переходов состояний](https://www.it-courses.by/state-transition-testing/), [Тест-дизайн. Таблица состояний и переходов (часть 1)](https://vk.com/@zapiskisedogotestera-test-dizain-tablica-sostoyanii-i-perehodov-chast-1), [Таблица состояний и переходов (часть 2)](https://vk.com/@zapiskisedogotestera-test-dizain-tablica-znachenii-i-perehodov-chast-2)
+* **Техника Pairwise/Попарное тестирование**: [Метод попарного тестирования](https://medium.com/@breadcrumbszone/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%BF%D0%BE%D0%BF%D0%B0%D1%80%D0%BD%D0%BE%D0%B3%D0%BE-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-22ebdb18e88), [Что такое Pairwise Testing, и с чем его едят](http://qcthoughtsaloud.blogspot.com/2010/06/pairwise-testing.html), [Метод попарного тестирования](https://software-testing.ru/library/testing/test-analysis/1304-pairing), [История одного pairwise или как заменить мозги Гуглом и проиграть](http://qa-blog.alexei-vinogradov.de/2019/03/pairwise-challenge/), [Открытый вебинар «Метод Pairwise Testing в Black Box тестировании»](https://habr.com/ru/company/otus/blog/437980/), [Попарное тестирование (Pairwise testing)](https://training.qatestlab.com/blog/technical-articles/pairwise-testing/)
+* **Исследовательское тестирование**: [Исследовательское тестирование: когда его стоит применять и как это делать](https://habr.com/ru/company/redmadrobot/blog/280618/), [Введение в исследовательское тестирование](https://software-testing.ru/library/testing/other-testing/2890-pathway-exploratory-testing), [Туры в исследовательском тестировании](https://habr.com/ru/post/328990/), [Создание плана исследовательского тестирования: картография ПО](https://software-testing.ru/library/testing/other-testing/2701-building-exploratory-test-plan), [Переводы туров для исследовательского тестирования](https://www.software-testing.ru/library/testing/testing-for-beginners/2965-exploratory-software-testing)
+* **ADHOC**: [Ad-hoc testing](https://qaevolution.ru/testirovanie-po/vidy-testirovaniya-po/ad-hoc-testing/), [Что такое ad-hoc тестирование?](https://training.qatestlab.com/blog/technical-articles/what-is-ad-hoc-testing/)
+
+### Баги
+
+* **Баг-репорты**: [Как заводить задачи в баг-трекер](http://okiseleva.blogspot.com/2015/02/blog-post_19.html), [Написание баг репорта](http://www.protesting.ru/testing/bugwriting.html), [Распространенные ошибки при составлении баг-репортов](https://habr.com/ru/post/156069/), [4 типичные ошибки оформления бага новичком](http://okiseleva.blogspot.com/2018/09/4.html), [Создание хороших баг-репортов](https://software-testing.ru/library/testing/bug-tracking/3469-writing-good-bug-reports), [Разбираемся с баг-репортом](https://software-testing.ru/library/testing/bug-tracking/3388-blogarchives487131),[Как закрывать задачи в баг-трекере](https://software-testing.ru/library/testing/bug-tracking/3193-close-tasks-bug-tracker)
+* **Priority/Severity**: [Серьезность и Приоритет Дефекта](http://www.protesting.ru/testing/bugpriority.html), [Серьезность и приоритет дефекта: в чем различие?](https://software-testing.ru/library/testing/functional-testing/2922-bug-serious), [Про Severity - серьезно и несерьезно](https://www.software-testing.ru/library/testing/testing-for-beginners/2100-severity-)
+* [Как искать баги](http://testbase.ru/bugs)
+* [Как локализовать плавающие баги](https://www.software-testing.ru/library/testing/general-testing/2280-how-to-investigate-intermittent-problems)
+* [Жизненный цикл бага](http://www.protesting.ru/testing/bug_lifecycle.html)
+
+### Уровни тестирования
+
+* [Тестирование ПО - Уровни](https://unetway.com/tutorial/testing-software-levels)
+* [Уровни Тестирования Программного Обеспечения](https://qastart.by/class/vidi-testirovaniya-m/45-po-urovnyam-testirovaniya)
+* [Уровни тестирования](https://beqa.pro/blog/testing-levels/)
+
+### DevTools
+
+* [Введение в Chrome DevTools. Панель Elements](https://htmlacademy.ru/blog/boost/tools/chrome-devtools-1)
+* [14 наиболее полезных особенностей Chrome DevTools](https://proglib.io/p/chrome-devtools/)
+* [Обзор всех инструментов разработчика Chrome DevTools](https://habr.com/ru/company/simbirsoft/blog/337116/)
+* [Как использовать Chrome DevTools при анализе сайта](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#3)
+
+### Прочее
+
+* [Тестирование. Фундаментальная теория](https://habr.com/ru/post/279535/)
+* [Клиент-серверная Архитектура](https://qastart.by/class-2/60-klient-servernaya-arkhitektura), [Архитектура клиент-сервер](https://sergeygavaga.gitbooks.io/kurs-lektsii-testirovanie-programnogo-obespecheni/content/lektsiya-6-ch1-arhitektura-klient-server.html)
+* [Когда нужно прекращать тестирование?](https://software-testing.ru/library/testing/general-testing/947-when-do-we-stop-testing)
+* [Шаблон улучшения](http://okiseleva.blogspot.com/2015/10/blog-post_16.html)
+* [Тестовое Покрытие (Test Coverage)](http://www.protesting.ru/testing/testcoverage.html)
+* [Сообщения об ошибках](https://software-testing.ru/library/testing/bug-tracking/2117-bugs-reports), [Сообщения об ошибках — тоже документация, тестируйте их!](http://okiseleva.blogspot.com/2015/06/blog-post_8.html)
+* [Как составлять вариант использования](http://okiseleva.blogspot.com/2015/11/blog-post_86.html)
+* [Тормозит страница в вебе, какую информацию собрать для разработчика](http://okiseleva.blogspot.com/2017/04/blog-post_21.html)
+* [Тестируем вёрстку правильно](https://habr.com/ru/company/2gis/blog/277457/)
+* [Что такое API](https://habr.com/ru/post/464261/)
+* [Тестирование на основе рисков, часть 1](https://software-testing.ru/library/testing/other-testing/3190-risk-based-testing-part-one-talking-about-risks-over-types-of-testing), [часть 2](https://software-testing.ru/library/testing/other-testing/3203-risk-based-testing-part-two-uncovering-risks), [часть 3](https://software-testing.ru/library/testing/other-testing/3213-risk-based-testing-part-three-bug-prevention-and-bug-detection)
+* [Быстрые тесты](https://software-testing.ru/library/testing/test-analysis/3352-littleblackbookontestdesign9)
+* [Метод бисекционного деления в тестировании](https://software-testing.ru/library/testing/test-analysis/3192-method-bisectional-division)
+* [Тестирование кнопок](https://software-testing.ru/library/testing/general-testing/3056-testing-buttons)
+* [7 Принципов тестирования с примерами](https://medium.com/@a.yevtukhov/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-331a2ab7ff43)
+* [Клиент-серверная архитектура в картинках](https://habr.com/ru/post/495698/)
+
+## Тестирование мобильных приложений
+
+***
+
+* [Особенности тестирования приложений на мобильных устройствах](https://enterra.ru/blog/mobile_qa/)
+* [Тестирование мобильных приложений: tips & tricks](https://habr.com/ru/company/badoo/blog/269189/)
+* [Снятие скриншотов, запись видео и получение логов: iOS, Android, Blackberry](https://www.akhozya.com/2012/07/ios-android-blackberry.html)
+* [Комментарии о построении и организации мобильной тест-лаборатории](https://www.akhozya.com/2012/09/blog-post.html)
+* [Тестирование для мобильных устройств: эмуляторы, симуляторы и удалённая отладка](https://m.habr.com/ru/post/237499/)
+* [Инструменты тестирования приложений для мобильных устройств: обзор вариантов и возможностей](https://enterra.ru/blog/tools_for_qa/)
+* [На чем писать Android UI-тесты](https://software-testing.ru/library/testing/mobile-testing/3453-android-ui-tests)
+* [Тестирование Flutter-приложений: инструменты, преимущества, проблемы](https://software-testing.ru/library/testing/mobile-testing/3447-flutter)
+* [Выбор мобильных устройств: пошаговая инструкция для начинающих QA. Часть I](https://software-testing.ru/library/testing/mobile-testing/3433-choosing-mobile-devices-1), [Часть II](https://software-testing.ru/library/testing/mobile-testing/3434-choosing-mobile-devices-2)
+* [Сценарное и исследовательское тестирование мобильных игр](https://software-testing.ru/library/testing/mobile-testing/3194-2019-09-23-08-26-49)
+* [Особенности тестирования Mobile Web приложений](https://software-testing.ru/library/testing/mobile-testing/3196-mobile-testing)
+* [Облачные платформы для мобильного тестирования](https://software-testing.ru/library/testing/mobile-testing/3198-cloud-platforms-for-mobile-testing)
+* [Автоматизация тестирования мобильных приложений: сравнение инструментов](https://software-testing.ru/library/testing/mobile-testing/3132-simbirsoft)
+* [Мобильное тестирование, часть 1: 12 проблем мобильного тестирования](https://software-testing.ru/library/testing/mobile-testing/3070-mobile-testing-part-i-twelve-challenges), [часть 2: ручное тестирование мобильных приложений](https://software-testing.ru/library/testing/mobile-testing/3089-mobile-testing-part-ii-manual-mobile), [часть 3: советы и инструменты для автоматизации мобильного тестирования](https://software-testing.ru/library/testing/mobile-testing/3102-mobile-testing-part-iii-seven-automated)
+* [Стратегия мобильного тестирования в трех шагах](https://software-testing.ru/library/testing/mobile-testing/3027-how-to-create-a-mobile-testing-strategy-in-three-steps)
+* [Тестируем новое приложение для фитнес-девайса – основные моменты мобильного тестирования](https://software-testing.ru/library/testing/mobile-testing/2929-mobile-testing-fitness-device)
+* [Разработка и тестирование мобильных дип линков (mobile deep links)](https://software-testing.ru/library/testing/mobile-testing/2837-mobile-deep-links)
+* [Особенности планирования работ по тестированию мобильных приложений](https://software-testing.ru/library/testing/mobile-testing/2790-key-principles-of-planning-mobile)
+* [Мобильные приложения и их тестировщики: all you need to know](https://software-testing.ru/library/testing/mobile-testing/2713-mobile-test)
+* [Тестирование мобильной версии сайта без мобильного устройства](https://software-testing.ru/library/testing/mobile-testing/2626-testing-mobile-website)
+* [Нагрузочное тестирование мобильного приложения: запись трафика и создание скриптов](https://software-testing.ru/library/testing/mobile-testing/2597-mobile-app-load-testing)
+* [Тестирование мобильных приложений: tips & tricks](https://software-testing.ru/library/testing/mobile-testing/2170-tipsatricks-mobile)
+* [6 «жизненных» советов или ЛАЙФХАК по мобильному тестированию](https://software-testing.ru/library/testing/mobile-testing/2010-lifehack-mobile-testing)
+* [Лайфхаки ручного тестирования на мобилках](https://software-testing.ru/library/testing/mobile-testing/2004-gorlova-sqadays-15)
+* [Чек-лист тестирования мобильных приложений](https://habr.com/ru/post/534190/)
+
+## Нагрузочное тестирование
+
+***
+
+* [О нагрузочном тестировании](https://habr.com/ru/company/oleg-bunin/blog/95060/)
+* [Введение в тестирование производительности](https://software-testing.ru/library/testing/performance-testing/3112-introduction-to-performance-testing)
+* [Руководство по тестированию производительности: с чего начать проверки и о чем нужно помнить](https://software-testing.ru/library/testing/performance-testing/3117-1aqa)
+* [Тестирование производительности: виды тестов, метрики и советы от профессионалов](https://software-testing.ru/library/testing/performance-testing/2627-testing-perfomance)
+* [Виды тестирования производительности](https://software-testing.ru/library/testing/performance-testing/3444-thoughts-performance-testing-types)
+* [Быстрое создание нагрузочных тестов на JMeter для web-сайтов](https://habr.com/ru/post/126042/)
+* [Открытые бенчмарки для нагрузочного тестирования серверов и веб-приложений](https://habr.com/ru/company/1cloud/blog/474474/)
+* [Нагрузочное тестирование Atlassian Jira, Confluence, Bitbucket Часть 1](https://habr.com/ru/post/499792/), [часть 2](https://habr.com/ru/post/500212/)
+* [Отладка тест-плана JMeter](https://habr.com/ru/post/88714/)
+* [Нагрузочное тестирование «по-быстренькому»](https://habr.com/ru/post/77593/)
+* [7 бесплатных сервисов для проверки сайтов (о которых вы могли и не знать)](https://habr.com/ru/post/99318/)
+* [Два подхода к тестированию производительности. Выбираем](https://habr.com/ru/post/106493/)
+* [Основы JMeter, часть 1: переменные](https://software-testing.ru/library/testing/performance-testing/3477-jmeter2), [Основы JMeter, введение: Получение биткойн-заказов от Mercado Bitcoin API](https://software-testing.ru/library/testing/performance-testing/3476-jmeter1-jmeterbasics)
+* [Измеряем изменения в скорости загрузки сайта в различных сетевых (и не только) условиях. Теперь удобнее](https://software-testing.ru/library/testing/performance-testing/3429-perfrunner-an-automated-tool-to-check-your-web-site-performance-improvements-against-various-conditions)
+* [Анализ результатов нагрузочного тестирования](https://software-testing.ru/library/testing/performance-testing/3421-performance-testing)
+* [Top 10 лучших инструментов для нагрузочного тестирования](https://software-testing.ru/library/testing/performance-testing/3406-performance-lab)
+* [Как спроектировать нагрузочный тест](https://software-testing.ru/library/testing/performance-testing/3128-how-to-design-load-test)
+* [Тестирование производительности: последовательность тестов, измеряемые показатели, правила подачи нагрузки](https://software-testing.ru/library/testing/performance-testing/2685-test-perfomance)
+
+## Тестирование безопасности
+
+***
+
+* [Тестирование безопасности: изнутри и снаружи](https://www.software-testing.ru/library/testing/security?start=20)
+* [Что такое XSS-уязвимость и как тестировщику не пропустить ее](https://habr.com/ru/post/511318/)
+* [Руководство по XSS, часть 1](https://www.software-testing.ru/library/testing/security/3222-xss-1), [часть 2](https://www.software-testing.ru/library/testing/security/3223-xss-2), [часть 3](https://www.software-testing.ru/library/testing/testing-automation/3240-xss-3), [часть 4](https://www.software-testing.ru/library/testing/testing-for-beginners/3265-xss4), [часть 5](https://www.software-testing.ru/library/testing/security/3284-xss5)
+* [Введение в тестирование безопасности: использование NMAp, Tor, ProxyChains](https://www.software-testing.ru/library/testing/security/3386-pen-testing-reconnaissance-101-using-nmaptor-and-proxychains)
+* [Деревья атак и их применение при анализе проблемы безопасности и защищённости программных продуктов](https://www.software-testing.ru/library/testing/security/140-attack-trees)
+* [Оценка характеристик безопасности в рамках процесса оценки качества программных средств в соответствии с международными стандартами ISO/IEC](https://www.software-testing.ru/library/testing/security/114-security-isoiec)
+* [Экспертиза исходных текстов, как метод тестирования безопасности и защищённости программных продуктов](https://www.software-testing.ru/library/testing/security/109-security-testing-expertise)
+* [Ранжирование атак на программные продукты. Классификация DREAD.](https://www.software-testing.ru/library/testing/security/107-software-attacks)
+* [Вариант определения понятий защищённости и безопасности программных продуктов](https://www.software-testing.ru/library/testing/security/87-defining-security)
+* [Что такое тестирование на проникновение?](https://www.software-testing.ru/library/testing/security/2812-what-is-penetration-testing)
+* [Security Testing vs Penetration Test — кто кого?](https://www.software-testing.ru/library/testing/security/2673-security-testing-vs-penetration-test)
+* [Burp Suite: швейцарский армейский нож для тестирования веб-приложений](https://www.software-testing.ru/library/testing/security/2596-burp-suit)
+* [Тестирование безопасности – выбираем нужное](https://www.software-testing.ru/library/testing/security/1986-security-testing)
+* [Тук-тук, к вам проверка...](https://www.software-testing.ru/library/testing/security/145-security-scanner)
+* [Тестирование защищенности локальных сетей](https://www.software-testing.ru/library/testing/security/142-local-network-security)
+* [Перехват сессий](https://www.software-testing.ru/library/testing/security/3071-a-gentle-introduction-to-session)
+* [Прятки на видном месте: использование инструментов разработчика для поиска уязвимостей безопасности](https://www.software-testing.ru/library/testing/security/3062-httpthethinkingtesterblogspotcom201807hidden-in-plain-sight-using-dev-tools)
+* [SQL-инъекции: общая информация](https://www.software-testing.ru/library/testing/security/3003-introduction-to-sql-injection)
+* [Что такое SQL injection и как найти ее с помощью программы SQLmap](https://www.software-testing.ru/library/testing/security/2923-sql-injection-sqlmap)
+* [Что такое межсайтовый скриптинг, и какое нам до него дело?](https://www.software-testing.ru/library/testing/security/3005-what-is-cross-site-scripting-and-why)
+* [Три способа тестирования на межсайтовый скриптинг](https://www.software-testing.ru/library/testing/security/3019-three-ways-to-test-for-cross-site)
+* [Тестирование на IDOR-уязвимости](https://www.software-testing.ru/library/testing/security/2991-testing-for-idor-vulnerabilitie)
+* [Но я же не тестирую безопасность! Тестирование безопасности Web-сервисов для чайников – часть 1](https://www.software-testing.ru/library/testing/security/2850-but-i-m-not-a-security-tester), [часть 2](https://www.software-testing.ru/library/testing/security/2853-but-i-m-not-a-security-tester-2)
+* [Чем искать уязвимости веб-приложений: сравниваем восемь популярных сканеров](https://www.software-testing.ru/library/testing/security/3134-thunter)
+* [Автоматизированное тестирование безопасности с ZAP Python API](https://www.software-testing.ru/library/testing/security/3278-automated-security-testing-using-zap-python-api)
+
+## Usability
+
+***
+
+* [Что такое Юзабилити?](https://usabilitylab.ru/blog/chto-takoe-yuzabiliti/)
+* [Чек-лист по юзабилити: 200+ пунктов на проверку](https://texterra.ru/blog/chek-list-po-yuzabiliti-200-punktov-na-proverku.html)
+* [Законы робототехники в интерфейсе](https://antonz.ru/laws/)
+* [Хороший пользовательский интерфейс. Часть 1](https://cmsmagazine.ru/journal/items-186846/)
+* [Главные ошибки дизайна и юзабилити сайта](https://dangry.ru/lukin/)
+* [Чек-лист по удобству использования веб-приложений](https://www.software-testing.ru/library/testing/usability-testing/2661-complete-web-application-usability)
+* [Лингвистическое тестирование: первые шаги](https://www.software-testing.ru/library/testing/usability-testing/1612-linguistic-testing-basics)
+* [Тестирование верстки](https://www.software-testing.ru/library/testing/usability-testing/2658-layout-testing)
+* [Юзабилити-тестирование API](https://www.software-testing.ru/library/testing/usability-testing/2648-api-usability-testing)
+* [9 инструментов тестирования юзабилити](https://www.software-testing.ru/library/testing/usability-testing/2086-nine-usability-testing-tools)
+* [Мифы про юзабилити и его тестирование](https://www.software-testing.ru/library/testing/usability-testing/1908-usability-myths)
+* [Тестирование удобства использования и доступности](https://www.software-testing.ru/library/testing/usability-testing/3115-usability-and-accessibility-testing)
+* [Вуайеризм тестировщика: как правильно подглядывать за людьми и зачем это нужно](https://www.software-testing.ru/library/testing/usability-testing/3057-voyeurism)
+* [Что такое тест-персона?](https://www.software-testing.ru/library/testing/usability-testing/2978-test-persona)
+* [Атака на юзабилити](https://www.software-testing.ru/library/testing/usability-testing/2687-usability-testing)
+* [Что такое UX/UI дизайн на самом деле?](https://habr.com/ru/post/321312/)
+* [UI controls на русском](https://habr.com/ru/post/223929/)
+
+## Тестирование игр
+
+***
+
+* [Тестирование игр](http://blog.aksi.rocks/2016/06/blog-post.html)
+* [Тестировать игры – это очень трудно!](https://software-testing.ru/library/testing/other-testing/2260-testing-games-is-hard)
+* [Контроль качества в играх с сервисной моделью](https://software-testing.ru/library/testing/other-testing/2541-qa-test-game-services)
+* [Тестировщики игр должны гордиться своей работой!](https://software-testing.ru/library/testing/other-testing/2367-games-testers-should-be-proud-of-their)
+* [Тестируй как игрок](https://software-testing.ru/library/testing/other-testing/2261-testing-like-a-gamer)
+* [Сценарное и исследовательское тестирование мобильных игр](https://software-testing.ru/library/testing/mobile-testing/3194-2019-09-23-08-26-49)
+
+## Автоматизация
+
+***
+
+* [Библия тестировщика, автоматизация](https://github.com/Vladislav610/QA_bible/blob/master/x%20Automation.md)
+* [Питонтьютор](http://pythontutor.ru)
+* [Python для начинающих](https://pythonworld.ru)
+* [Принципы ООП](https://qastart.by/class-2/20-razdely/klassifikatsiya-4/66-printsipy-oophttps://qastart.by/class-2/20-razdely/klassifikatsiya-4/66-printsipy-oop)
+* [Часто используемые локаторы - селекторы (xPath-css)](https://qastart.by/class-2/20-razdely/klassifikatsiya-4/75-chasto-ispolzuemye-lokatory-selektory-xpath-css)
+* [Устанавливаем свой маленький локальный веб-сервер](https://webdriver.ru/blog/2015-05-21-installing-xampp/)
+* [Как можно и нельзя автоматизировать](https://software-testing.ru/library/testing/testing-automation/2940-starting-up-test-automation)
+* [Как стать автоматизатором тестирования?](https://habr.com/ru/post/253867/)
+* [Разбираемся в запуске тестов в Jenkins (+Maven +TestNG +WebDriver на Java) или туториал новичка](https://automated-testing.info/t/razbiraemsya-v-zapuske-testov-v-jenkins-maven-testng-webdriver-na-java-ili-tutorial-novichka/1901)
+* [Не так страшен XPATH как его незнание](https://testerslittlehelper.wordpress.com/2016/07/10/real-xpath/)
+* [Чит-лист для создания Xpath](https://devhints.io/xpath)
+* [Типичные ошибки начинающих писать тесты на WebDriver](https://www.youtube.com/watch?v=LtTmki_75vg)
+* [Что такое CI (Continuous Integration)](https://habr.com/ru/post/508216/)
+* [Автоматизация тестирования REST API при помощи Postman и JavaScript](https://quality-lab.ru/blog/test-automation-rest-api-using-postman-and-javascript/)
+* [Автоматизированное тестирование безопасности с ZAP Python API](https://www.software-testing.ru/library/testing/security/3278-automated-security-testing-using-zap-python-api)
+* [7 правил хорошего тона при написании Unit-тестов](https://software-testing.ru/library/testing/other-testing/2730-unit-tests)
+* [Тестирование параллельных процессов](https://software-testing.ru/library/testing/other-testing/2530-testing-parallel-processes)
+* [Система под контролем: как автоматизировать интеграционные тесты](https://software-testing.ru/library/testing/testing-automation/3481-how-automate-integration-tests)
+* [Как использовать брейкпойнты в инструментах разработчика, часть 1](https://software-testing.ru/library/testing/testing-automation/3474-how-to-use-breakpoints-in-dev-tools-part-i)
+* [CucumberTalks: избегаем антипаттернов и пишем выразительные сценарии](https://software-testing.ru/library/testing/testing-automation/3461-cucumbertalks-)
+* [Пожалуй, лучшая архитектура для UI тестов](https://software-testing.ru/library/testing/testing-automation/3459-architecture-for-ui-tests)
+* [Создание тестов для REST API на Python с использованием запросов. Часть 1: базовые тесты](https://software-testing.ru/library/testing/testing-automation/3333-writing-tests-for-restful-apis-in-python-using-requests-part-1-basic-tests), [работа с XML](https://software-testing.ru/library/testing/testing-automation/3378-writing-tests-for-restful-apis-in-python-using-requests-part-3-working-with-xml), [имитация ответов](https://software-testing.ru/library/testing/testing-automation/3443-writing-tests-for-restful-apis-in-python-using-requests-part-4-mocking-responses)
+* [Проверка ответов API целиком](https://software-testing.ru/library/testing/testing-automation/3277-verifying-entire-api-responses)
+* [Автотестирование: десять лайфхаков от команды Skyeng](https://software-testing.ru/library/testing/testing-automation/3218--skyeng)
+* [Кликанье по Web-элементам при помощи Selenium WebDriver](https://software-testing.ru/library/testing/testing-automation/3082--web-selenium-webdriver)
+* [Какие API-тесты автоматизировать, и когда это надо делать](https://software-testing.ru/library/testing/testing-automation/3034-what-api-tests-to-automate-and-when-to), [Автоматизация ваших API-тестов](https://software-testing.ru/library/testing/testing-automation/3028-automating-your-api-tests)
+
+## API
+
+***
+
+* [REST / SOAP](https://qastart.by/class-2/23-rest-soap)
+* [Типы HTTP-запросов и философия REST](https://habr.com/ru/post/50147/)
+* [Основные HTTP-коды для чайников в картинках](http://www.controlstyle.ru/articles/text/http-codes-explained/)
+* [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/), [Создание коллекции в Postman](https://software-testing.ru/library/testing/testing-automation/2970-creating-a-postman-collection), [Добавление правил в Postman](https://software-testing.ru/library/testing/testing-automation/2990-adding-postman-assertions), [Использование переменных в Postman](https://software-testing.ru/library/testing/testing-automation/2992-using-variables-in-postman)
+* [WEB](https://qastart.by/class-2)
+* [Особенности тестирования веб-приложений](https://quality-lab.ru/blog/key-principles-of-web-testing/)
+* [Введение в REST-запросы и тестирование GET-запросов](https://software-testing.ru/library/testing/testing-automation/2958-testing-get-requests)
+* [Как отправить REST-запрос в Postman](https://okiseleva.blogspot.com/2018/10/rest-postman.html)
+* [Как отправить через Postman картинку](https://okiseleva.blogspot.com/2018/11/postman.html)
+* [Как отправить фото в формате base64 через Postman](https://okiseleva.blogspot.com/2020/07/base64-postman.html)
+* [Как отправить массив через form-data в Postman](https://okiseleva.blogspot.com/2018/11/form-data-postman.html)
+* [Освоение тестирования REST API](https://quality-lab.ru/blog/rest-api-testing/)
+* [Принципы тест-дизайна для тестирования API](https://software-testing.ru/library/testing/testing-automation/2968-api)
+* [Тестирование POST-запросов](https://software-testing.ru/library/testing/testing-automation/2963-testing-post-requests), [Тестирование PUT-запросов](https://software-testing.ru/library/testing/testing-automation/2969-testing-put-requests), [Тестирование PATCH-запросов](https://software-testing.ru/library/testing/testing-automation/2971-patch-requests)
+* [Автоматизация тестирования REST API при помощи Postman и JavaScript](https://quality-lab.ru/blog/test-automation-rest-api-using-postman-and-javascript/)
+* [Как отправить SOAP-запрос в Soap Ui](https://okiseleva.blogspot.com/2017/07/soap-soap-ui.html)
+* [Как отправить массив через Soap Ui](https://okiseleva.blogspot.com/2019/03/soap-ui.html)
+* [Где потестировать API](https://reqres.in/), [Где потестировать API еще](http://httpbin.org/), [Users](https://okiseleva.blogspot.com/2017/04/users-soap-rest.html), [Swagger Petstore](https://okiseleva.blogspot.com/2018/12/swagger-petstore-rest.html)
+* [Что такое XML](https://www.software-testing.ru/library/testing/testing-for-beginners/3464-what-is-xml)
+* [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+* [От шока до принятия: пять стадий тестирования API](https://dou.ua/lenta/columns/api-testing-stages/?from=slider)
+
+## Базы данных
+
+***
+
+* [Тестирование баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3242-database-testing)
+* [Тестирование реляционных баз данных](https://www.software-testing.ru/library/testing/testing-for-beginners/3267-testing-with-relational-databases)
+* [SQL](https://qastart.by/class-6)
+* [Команды](https://www.dropbox.com/s/pjvdrrh7ap3jwlq/SQL.docx?dl=0)
+* [SQL. Полезные запросы](http://okiseleva.blogspot.com/2017/03/sql.html)
+* [Joins](http://barbaricqa.com/blog/wp-content/uploads/2013/10/SQL-Joins-visualisation.jpeg)
+* [Самое простое в мире руководство по MongoDB](https://www.software-testing.ru/library/testing/testing-for-beginners/3287-mongodb)
+* [SQL и NoSQL: разбираемся в основных моделях баз данных](https://tproger.ru/translations/sql-nosql-database-models/)
+* [Основные команды SQL, которые должен знать каждый программист](https://tproger.ru/translations/sql-recap/)
+* [Введение в JSON](https://www.json.org/json-ru.html)
+* [Наиболее используемые команды MySQL](https://pai-bx.com/wiki/mysql/1988-the-most-used-mysql-command/)
+* [MySQL/Руководство для начинающих](https://wiki.gentoo.org/wiki/MySQL/Startup_Guide/ru)
+* [Основы правил проектирования базы данных](https://habr.com/ru/post/514364/)
+* [Руководство по проектированию реляционных баз данных (1-3 часть из 15)](https://habr.com/ru/post/193136/), [4-6 часть из 15](https://habr.com/ru/post/193284/), [7-9 часть из 15](https://habr.com/ru/post/193380/), [10-13 часть из 15](https://habr.com/ru/post/193756/), [14-15 часть из 15](https://habr.com/ru/post/194714/), [Каскадное удаление данных](https://habr.com/ru/post/194738/)
+* [Документация к Postgres Pro Standard 12.5.1](https://postgrespro.ru/docs/postgrespro/12/index)
+* [Как думать на SQL?](https://habr.com/ru/post/305926/)
+* [Тренажёр для PostgreSQL на английском](https://pgexercises.com/questions/basic/)
+* [Еще один тренажёр](https://sql-academy.org/en/trainer?sort=byId)
+* [Сайт-тренажёр на русском.](https://www.sql-ex.ru/?Lang=0)
+* [информационный ресурс о SQL](http://2sql.ru/)
+* [Руководство по тестированию баз данных](https://senior.ua/articles/rukovodstvo-po-testirovaniyu-baz-dannyh)
+* [Тестирование баз данных](http://getbug.ru/testirovanie-baz-dannyih/)
+
+## GIT
+
+* [Простое руководство по работе с git](http://rogerdudler.github.io/git-guide/index.ru.html)
+* [Чёрт побери, Git!?!](https://dangitgit.com/ru)
+* [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet)
+* [Git](https://qastart.by/class-5)
+* [Тренажёр GIT](https://learngitbranching.js.org/?locale=ru_RU)
+
+## Инструменты
+
+***
+
+* [Как сгенерить большую строку, инструменты](http://okiseleva.blogspot.com/2015/08/blog-post_8.html)
+* [Bug magnet — аддон тестировщика для заполнения полей](https://okiseleva.blogspot.com/2018/09/bug-magnet.html)
+* [Как снять maxlength со всех полей формы](https://okiseleva.blogspot.com/2020/07/maxlength.html)
+* [Снятие скриншотов, запись видео и получение логов: iOS, Android, Blackberry](https://www.akhozya.com/2012/07/ios-android-blackberry.html)
+* [Тестирование для мобильных устройств: эмуляторы, симуляторы и удалённая отладка](https://m.habr.com/ru/post/237499/)
+* [Инструменты тестирования приложений для мобильных устройств: обзор вариантов и возможностей](https://enterra.ru/blog/tools_for_qa/)
+* [7 бесплатных сервисов для проверки сайтов (о которых вы могли и не знать)](https://habr.com/ru/post/99318/)
+* [Транслитерация без боли.](https://dangry.ru/iuliia/)
+* [Где потестировать API](https://reqres.in/), [Где потестировать API еще](http://httpbin.org/), [Users](https://okiseleva.blogspot.com/2017/04/users-soap-rest.html), [Swagger Petstore](https://okiseleva.blogspot.com/2018/12/swagger-petstore-rest.html)
+* [Небольшие формочки, где спрятаны баги](http://testingchallenges.thetestingmap.org/)
+* [Треугольник](https://playground.learnqa.ru/puzzle/triangle)
+* [Калькулятор](http://bugred.ru/calc/)
+* [Burp Suite: швейцарский армейский нож для тестирования веб-приложений](https://www.software-testing.ru/library/testing/security/2596-burp-suit)
+* [Чем искать уязвимости веб-приложений: сравниваем восемь популярных сканеров](https://www.software-testing.ru/library/testing/security/3134-thunter)
+* [9 инструментов тестирования юзабилити](https://www.software-testing.ru/library/testing/usability-testing/2086-nine-usability-testing-tools)
+* [15 инструментов для тестирования API](https://software-testing.ru/library/testing/functional-testing/2676-open-source-api-testing)
+* [40+ супер-полезных расширений Chrome для тестировщиков](https://software-testing.ru/library/testing/general-testing/2242-useful-google-chrome-extensions-testing-software)
+* [Top 10 лучших инструментов для нагрузочного тестирования](https://software-testing.ru/library/testing/performance-testing/3406-performance-lab)
+* [Slothman — генератор текста, картинок и кучи всего еще](https://okiseleva.blogspot.com/2020/08/slothman.html)
+* [Генераторы тестовых файлов с нужным весом](https://okiseleva.blogspot.com/2019/04/blog-post_86.html)
+* [Form Filler — плагин тестировщика для автозаполнения полей](https://okiseleva.blogspot.com/2019/04/form-filler.html)
+* [Генератор текста нужной длины](https://okiseleva.blogspot.com/2019/08/blog-post_99.html)
+* [Пятнадцать бесплатных инструментов в помощь тестировщику](https://software-testing.ru/library/testing/testing-tools/3145-httpthethinkingtesterblogspotcom201812fifteen-free-tools-to-help-with-testing)
+* [Canva — инструмент для красивого чек-листа!](https://okiseleva.blogspot.com/2019/09/canva.html)
+* [Как сгенерить большую строку, инструменты](http://okiseleva.blogspot.com/2015/08/blog-post_8.html)
+* [8 отличных сервисов для генерации данных](https://quality-lab.ru/blog/8_services_for_data_generation/)
+* [Генератор русских ФИО, ИНН, ОГРН, ОМС](https://okiseleva.blogspot.com/2020/08/blog-post_5.html)
+* [Mockaroo — генератор реалистичных тестовых данных. CSV, XLS, JSON, XML](http://okiseleva.blogspot.com/2019/07/mockaroo-csv-xls-json-xml.html)
+* [Не лайтхаусом единым: как проверить свой сайт со всех сторон](https://software-testing.ru/library/testing/other-testing/3456-lighthouse)
+* [Cервис проверки названия багов](http://bugred.ru)
+* [Шесть советов и четыре инструмента для тестирования загрузки файлов](https://www.software-testing.ru/library/testing/testing-for-beginners/3318-six-tips-and-four-tools-for-file-upload)
+* [Облачные платформы для мобильного тестирования](https://software-testing.ru/library/testing/mobile-testing/3198-cloud-platforms-for-mobile-testing)
+* [Автоматизация тестирования мобильных приложений: сравнение инструментов](https://software-testing.ru/library/testing/mobile-testing/3132-simbirsoft)
+* [Инструменты для автоматизации мобильного тестирования](https://software-testing.ru/library/testing/mobile-testing/3102-mobile-testing-part-iii-seven-automated)
+* [Http-stubs — поиск идеального инструмента](https://software-testing.ru/library/testing/testing-tools/3458-http-stubs)
+* [Selenium, Selenoid, Selenide, Selendroid… Что все это значит?](https://software-testing.ru/library/testing/testing-tools/3389-selenium-selenoid-selenide-selendroid)
+* [Docker для тестировщика: что это и зачем?](https://software-testing.ru/library/testing/testing-tools/3350-docker)
+* [Пятнадцать бесплатных инструментов в помощь тестировщику](https://software-testing.ru/library/testing/testing-tools/3145-fifteen-free-tools-to-help-with-testing)
+* [Лучшие системы управления тестированием 2019](https://software-testing.ru/library/testing/testing-tools/3142-testing-management-systems)
+* [8 отличных сервисов для генерации данных](https://software-testing.ru/library/testing/testing-tools/2857-8-services-for-data-generation)
+* [Выбор подходящего инструмента для тестирования JavaScript](https://software-testing.ru/library/testing/testing-tools/2763-javascript-testing-tools)
+* [Тюнинг браузера для эффективного тестирования](https://software-testing.ru/library/testing/testing-tools/2040-browser-tuning)
+* [Xenu Link Evaluator-«чекер» веб-приложения на предмет наличия в нем «битых» ссылок.](https://xenus-link-sleuth.softonic.ru/?ex=BB-1549.1)
+
+## Собеседование
+
+***
+
+* [Библия тестировщика, часть 1](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%201.md), [часть 2](https://github.com/Vladislav610/QA_bible/blob/master/Manual%20part%202.md)
+* [Подборка материалов для подготовки к QA Interview (QA, Automation & Python, Linux & Networks)](https://xwizard-test.blogspot.com/2017/02/qa-interview-qa-automation-python-linux.html)
+* [Тестирование карандаша](https://habr.com/ru/post/193902)
+* [Обзор частых вопросов по тестированию ПО на собеседованиях и ответы на них](https://habr.com/ru/post/257529/)
+* [Задачи на собеседованиях от Acronis и решения задач от Custis](https://xakep.ru/2015/07/07/coding-challenges-198/)
+* [Примеры крутых резюме для junior тестировщика](http://okiseleva.blogspot.com/2016/07/junior.html)
+* [Пример отличного сопроводительного письма от Насти Кузиной](http://okiseleva.blogspot.com/2016/09/blog-post_15.html)
+* [Топ-5 ошибок в резюме junior тестировщика. Как улучшить свое резюме](https://www.youtube.com/watch?v=PznWqzCGmtY)
+* [Как описывать навыки в резюме](https://okiseleva.blogspot.com/2019/11/blog-post_16.html)
+* [Что нужно, чтобы устроиться на первую работу тестировщиком](https://www.software-testing.ru/library/testing/testing-for-beginners/3230-jedi-point)
+* [Хабр-карьера](https://career.habr.com/)
+* [40 ситуаций, о которых вас спросят на собеседовании](https://habr.com/ru/company/icanchoose/blog/296730/)
+* [51 вопрос, который вы должны задать на собеседовании](https://icanchoose.ru/blog/51-vopros-kotoryj-vy-mozhete-zadat-na-intervyu/)
+
+## Telegram-каналы
+
+***
+
+* [Интерфейсы без шелухи](https://t.me/dangry)
+* [Серьёзный тестер](https://teleg.run/serious_tester)
+* [QA\_PRO | Тестирование](https://t.me/qa_pro)
+* [QA Alliance](https://t.me/qalliance)
+* [automated-testing.info](https://t.me/atinfo)
+* [QA events](https://t.me/qaevents)
+* [Архив тестирование](https://t.me/testinglib)
+* [QA\_ru](https://t.me/qa_ru)
+* [QA Сhannel](https://t.me/qa_channel)
+* [QA juniors](https://t.me/qajuniors)
+* [QA - Bad Company!](https://t.me/qa_bad_company)
+* [QA — вакансии и аналитика рынка вакансий](https://t.me/qa_jobs)
+* [QA - Резюме](https://t.me/qa_resumes)
+* [QA - Finance](https://t.me/qa_fin)
+* [QA — русскоговорящее сообщество](https://t.me/qa_ru)
+* [QA — Автоматизация](https://web-telegram.ru/#/im?p=@qa_automation)
+* [QA events](https://t.me/qaevents)
+* [Job for QA](https://t.me/forallqa)
+* [Кладовка Тестировщика](https://t.me/qainfo)
+
+## Всячина
+
+***
+
+* [Подкаст тестировщиков](http://radio-qa.com/)
+* [Онлайн-игра Can't Unse](https://cantunsee.space), [Онлайн-игра Code Combat](https://codecombat.com)
+* [Тестирование ПО: суть профессии, требования и заработная плата](https://habr.com/ru/company/habr_career/blog/517812/)
+* **ISTQB**: [Сертификация ISTQB. Часть 1](https://habr.com/ru/post/450748/), [Часть 2](https://habr.com/ru/post/453892/), [Сертификация ISTQB: преимущества и особенности](https://software-testing.ru/library/testing/general-testing/3133-istqb), [Устаревшие концепции тестирования: сертификация](https://software-testing.ru/library/around-testing/job/3365-outdated-testing-concepts-4-certification), [ISTQB: как подготовиться и где сдавать](https://vk.com/@zapiskisedogotestera-istqb-kak-podgotovitsya-i-gde-sdavat), [ISTQB: кому сдавать](https://vk.com/@zapiskisedogotestera-istqb-komu-sdavat)
+* [Целеполагание и контроль деятельности на основе матрицы Эйзенхауэра](https://habr.com/ru/company/smartprogress/blog/245587/)
+* [Почему тестировщиков «джун», «мидл» и «сеньор» не существует. Или как мы уже 10 лет работаем без грейдов](https://habr.com/ru/post/517744/)
+* [Кнопочное мышление против целостного IT-продукта](https://habr.com/ru/post/302382/)
+* [User story как одна из особенностей тестирования страховых продуктов](https://quality-lab.ru/blog/user-story-as-one-of-the-features-of-insurance-products-testing/)
+* [Эффект пестицида](http://okiseleva.blogspot.com/2020/11/blog-post_26.html)
+* [Тестирование в 2022 году](https://www.software-testing.ru/library/testing/general-testing/3288-2022)
+* [Сколько стоят тестировщики и от чего зависят их зарплаты? Строим портрет успешного QA-специалиста](https://software-testing.ru/library/testing/general-testing/3051-salary2018)
+* [Кто ты, QA-инженер или тестировщик?](https://www.software-testing.ru/library/testing/testing-for-beginners/3341-qa-vs-tester)
+* [За какие ошибки могут уволить начинающего тестировщика?](https://www.software-testing.ru/library/testing/testing-for-beginners/3312-za-kakie-oshibki-mogut-uvolit-nachinayushchego-testirovshchika)
+* [Тест-аналитики – кто это?](https://software-testing.ru/library/testing/test-analysis/2583-test-analysts-who-is-this)
+* [Кто такие тест-дизайнеры и зачем они нужны](https://software-testing.ru/library/testing/test-analysis/2500-roles-and-responsibilities-of-test-designer)
+* [Почему Python – отличный выбор для автоматизации](https://software-testing.ru/library/testing/testing-automation/3099-why-python-is-great-for-test-automation)
+* [Quality Architect: кто это такой и когда он нужен](https://software-testing.ru/library/around-testing/job/3295-quality-architect)
+* [Семь типов тестировщиков](https://software-testing.ru/library/testing/general-testing/2859-7-types-testers)
+* [Какие баги никогда не будут поправлены, и как с этим жить](https://software-testing.ru/library/testing/general-testing/2785-what-bugs-wil-never-be-fixed)
+* [Какая разница между тест-аналитиком, системным аналитиком и бизнес-аналитиком](https://software-testing.ru/library/testing/general-testing/2704-what-is-the-difference-between-the-analysts)
+* [Пирамида обучения: как запомнить что-то раз и навсегда](https://externat.foxford.ru/polezno-znat/piramida-obucheniya)
+* [Что должен знать тестировщик бэкенда](https://habr.com/ru/company/funcorp/blog/491188/)
+* [7 книг, которые помогут каждому тестировщику](https://techrocks.ru/2018/01/13/book-list-for-software-testers/)
+* [Профессия тестировщик](https://beqa.pro/blog/qa-qc-tester-profession/)
+* [Управление тестовыми данными](https://telegra.ph/Upravlenie-testovymi-dannymi-12-09)
+* [html5book](https://html5book.ru/)
+* [Валидатор вёрстки](https://validator.w3.org/)
+* [Карта знаний QA](https://docs.google.com/spreadsheets/u/0/d/1hl8SY5HgGFj01n2YMcS3EMTDu2s2noTDOTdDZkOkAQU/htmlview#gid=0)
+
+## Краудтестинг
+
+***
+
+* [Краудтестинг, или Где взять опыт для первой работы в тестировании](https://habr.com/ru/company/badoo/blog/415289/)
+* [Тестировщик-фрилансер. Обзор площадок](https://vk.com/@zapiskisedogotestera-testirovschik-frilanser-obzor-ploschadok)
+* [20 платформ для заработка на тестировании](https://habr.com/ru/post/505956/)
+* [Testbirds](https://nest.testbirds.com/home/tester)
+* [Utest](https://www.utest.com)
+* [PassBrains](https://www.passbrains.com/)
+* [Global App Testing](https://www.globalapptesting.com/)
+* [Ubertesters](https://ubertesters.com/)
+* [Testlio](https://testlio.com/)
+* [Test.io](https://test.io/)
+* [fl.ru](https://www.fl.ru/)
+* [freelancehunt.com](https://freelancehunt.com/)
+* [kwork.ru](https://kwork.ru/)
+* [upwork.com](https://www.upwork.com/)
