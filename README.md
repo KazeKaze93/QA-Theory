@@ -1,31 +1,43 @@
----
-description: >-
-  Эта страница создана для подготовки к собеседованиям в области ручного и
-  автоматизированного тестирования.
----
-
 # 🔎 README
 
-{% hint style="info" %}
-В проекте представлены различные темы, разделенные на директории, чтобы помочь вам уверенно ответить на вопросы на собеседовании.
-{% endhint %}
+[![](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)](https://kaze.gitbook.io/qa-theory)
 
-#### 1) Теория ручного тестирования <a href="#user-content-1-teoriya-ruchnogo-testirovaniya" id="user-content-1-teoriya-ruchnogo-testirovaniya"></a>
+## QA Engineering Theory & Best Practices
 
-В этой директории вы найдете материалы и ответы на вопросы, связанные с ручным тестированием, его методиками и подходами. Ваша подготовка будет более основательной благодаря этой секции.
+The ultimate knowledge base for QA Engineers.\
+From Manual Testing fundamentals to Advanced Automation patterns.
 
-#### 2) Теория автоматизированного тестирования + фреймворки тестирования <a href="#user-content-2-teoriya-avtomatizirovannogo-testirovaniya-freimvorki-testirovaniya" id="user-content-2-teoriya-avtomatizirovannogo-testirovaniya-freimvorki-testirovaniya"></a>
+[![GitBook](https://img.shields.io/badge/Read_on-GitBook-3b54d1?style=for-the-badge\&logo=gitbook\&logoColor=white) ](https://kaze.gitbook.io/qa-theory)![License](https://img.shields.io/badge/License-MIT-fabc09?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/KazeKaze93/QA-Theory?style=for-the-badge\&color=success)<br>
 
-Автоматизация тестирования играет важную роль в мире разработки. В данной секции вы найдете информацию о фреймворках и практические примеры автоматизации тестов.
+> **Note:** This repository contains the **source code** (Markdown files) for my knowledge base. For the best reading experience, please visit the [**GitBook Site**](https://kaze.gitbook.io/qa-theory).
 
-#### 3) Основы программирования на Python <a href="#user-content-3-osnovy-programmirovaniya-na-python" id="user-content-3-osnovy-programmirovaniya-na-python"></a>
+***
 
-Знание Python может значительно помочь в сфере тестирования. Здесь собраны материалы по основам Python, которые пригодятся на собеседовании.
+### 🗺️ Navigation Map
 
-#### 4) Основы программирования на Java <a href="#user-content-4-osnovy-programmirovaniya-na-java" id="user-content-4-osnovy-programmirovaniya-na-java"></a>
+Here you can find direct links to the source files if you want to contribute or read raw markdown.
 
-Если Java - ваш язык программирования по выбору, то эта секция для вас. Здесь вы найдете информацию о Java и ее использовании в тестировании.
+| 🧪 Manual Testing                                                                                                                                                                      | 🤖 Automation                                                                                                                                                          | 💻 Programming & Tech                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <p><strong>Core Concepts</strong><br>• Testing Types<br>• SDLC &#x26; STLC<br>• Test Levels<br><br><strong>Documentation</strong><br>• Test Cases<br>• Bug Reports<br>• Checklists</p> | <p><strong>Frameworks</strong><br>• Selenium WebDriver<br>• Playwright<br>• CI/CD Basics<br><br><strong>Patterns</strong><br>• Page Object Model<br>• Page Factory</p> | <p><strong>Python</strong><br>• Core Syntax<br>• OOP<br>• Fixtures<br><br><strong>Java</strong><br>• Core<br>• Collections</p> |
 
-#### 5) Полезные ссылки <a href="#user-content-5-poleznye-ssylki" id="user-content-5-poleznye-ssylki"></a>
+***
 
-В этой директории собраны полезные ссылки, которые помогут вам углубить знания по каждой теме и подготовиться к собеседованию более качественно.
+### 🛠️ Topics Covered
+
+<div align="center"><img src="https://skillicons.dev/icons?i=jira,postman,selenium,python,java,docker,git,linux,postgres,jenkins&#x26;theme=dark" alt=""></div>
+
+***
+
+### 🤝 Contribution
+
+Found a typo? Want to add a new topic?
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/new-topic`.
+3. Commit your changes.
+4. Push to the branch and open a **Pull Request**.
+
+***
+
+Made with ❤️ by [KazeKaze93](https://github.com/KazeKaze93)
