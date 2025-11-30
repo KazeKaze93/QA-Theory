@@ -29,9 +29,9 @@
 
 Here you can find direct links to the source files if you want to contribute or read raw markdown.
 
-| 🧪 Manual Testing | 🤖 Automation | 💻 Technical Skills |
+| 🧪 Manual Testing | 🤖 Automation | 💻 Programming & Tech |
 | :--- | :--- | :--- |
-| **Core Concepts**<br>• [Testing Types](docs/manual/testing-types.md)<br>• [SDLC & STLC](docs/manual/sdlc-stlc.md)<br>• [Test Levels](docs/manual/test-levels.md)<br><br>**Documentation**<br>• [Test Cases](docs/manual/test-cases.md)<br>• [Bug Reports](docs/manual/bug-reports.md)<br>• [Checklists](docs/manual/checklists.md) | **Frameworks**<br>• [Selenium WebDriver](docs/auto/selenium.md)<br>• [Playwright](docs/auto/playwright.md)<br>• [Pytest / JUnit](docs/auto/runners.md)<br><br>**Patterns**<br>• [Page Object Model](docs/auto/pom.md)<br>• [Page Factory](docs/auto/page-factory.md)<br>• [Singleton](docs/auto/singleton.md) | **Backend**<br>• [SQL & Databases](docs/tech/sql.md)<br>• [API (REST/SOAP)](docs/tech/api.md)<br>• [HTTP Methods](docs/tech/http.md)<br><br>**DevOps**<br>• [Linux/Bash](docs/tech/linux.md)<br>• [Docker Basics](docs/tech/docker.md)<br>• [CI/CD](docs/tech/cicd.md) |
+| **Core Concepts**<br>• [Testing Types](docs/manual/types.md)<br>• [SDLC & STLC](docs/manual/sdlc.md)<br>• [Test Levels](docs/manual/levels.md)<br><br>**Documentation**<br>• [Test Cases](docs/manual/test-cases.md)<br>• [Bug Reports](docs/manual/bugs.md)<br>• [Checklists](docs/manual/checklists.md) | **Frameworks**<br>• [Selenium WebDriver](docs/automation/selenium.md)<br>• [Playwright](docs/automation/playwright.md)<br>• [CI/CD Basics](docs/automation/cicd.md)<br><br>**Patterns**<br>• [Page Object Model](docs/automation/pom.md)<br>• [Page Factory](docs/automation/factory.md) | **Python**<br>• [Core Syntax](docs/python/basics.md)<br>• [OOP](docs/python/oop.md)<br>• [Fixtures](docs/python/fixtures.md)<br><br>**Java**<br>• [Core](docs/java/basics.md)<br>• [Collections](docs/java/collections.md) |
 
 ---
 
